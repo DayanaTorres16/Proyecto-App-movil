@@ -6,7 +6,7 @@ El diseño completo, incluyendo la funcionalidad de los botones y la interfaz, s
 
 A continuación, un poco del diseño de la interfaz:
 
-[![Uancinema1.png](https://i.postimg.cc/sDLqbDZP/Uancinema1.png)](https://postimg.cc/w7hwmz23)
+[![Uancinema1.png](https://i.postimg.cc/hv7rQxKp/Uancinema1.png)](https://postimg.cc/YLMgJvGW)
 [![wepik-export-20240227223957lf5-K-Custom.jpg](https://i.postimg.cc/BbKw2RqW/wepik-export-20240227223957lf5-K-Custom.jpg)](https://postimg.cc/gLGDWSX4)
 [![Captura-de-pantalla-2024-03-07-004808-Custom.png](https://i.postimg.cc/QtVzdHwd/Captura-de-pantalla-2024-03-07-004808-Custom.png)](https://postimg.cc/cgyhD4dp)
 
