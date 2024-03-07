@@ -8,3 +8,7 @@ A continuación, un poco del diseño de la interfaz:
 
 [![Uancinema1.png](https://i.postimg.cc/sDLqbDZP/Uancinema1.png)](https://postimg.cc/w7hwmz23)
 [![wepik-export-20240227223957lf5-K-Custom.jpg](https://i.postimg.cc/BbKw2RqW/wepik-export-20240227223957lf5-K-Custom.jpg)](https://postimg.cc/gLGDWSX4)
+[![Captura-de-pantalla-2024-03-07-004808-Custom.png](https://i.postimg.cc/QtVzdHwd/Captura-de-pantalla-2024-03-07-004808-Custom.png)](https://postimg.cc/cgyhD4dp)
+[![wepik-export-20240228050355-Qsq-D-Custom.jpg](https://i.postimg.cc/J4j20w6Z/wepik-export-20240228050355-Qsq-D-Custom.jpg)](https://postimg.cc/rKFJZHLw)
+[![wepik-export-202403051807106w-G7-Custom.jpg](https://i.postimg.cc/h4kYK4rK/wepik-export-202403051807106w-G7-Custom.jpg)](https://postimg.cc/pyBCZH4S)
+[![wepik-export-20240305195340-URNR-Custom.jpg](https://i.postimg.cc/vBjNgGwL/wepik-export-20240305195340-URNR-Custom.jpg)](https://postimg.cc/YG63TK9h)
