@@ -6,9 +6,9 @@ El diseño completo, incluyendo la funcionalidad de los botones y la interfaz, s
 
 A continuación, un poco del diseño de la interfaz:
 
-[![Uancinema1.png](https://i.postimg.cc/sDLqbDZP/Uancinema1.png)](https://postimg.cc/w7hwmz23)
-[![wepik-export-20240227223957lf5-K.jpg](https://i.postimg.cc/Y9njHW7q/wepik-export-20240227223957lf5-K.jpg)](https://postimg.cc/hzmK8hhH)
-[![Captura-de-pantalla-2024-03-07-004808.png](https://i.postimg.cc/XYLr8hPC/Captura-de-pantalla-2024-03-07-004808.png)](https://postimg.cc/68766HtW)
+[![Uancinema1.png|100](https://i.postimg.cc/sDLqbDZP/Uancinema1.png)](https://postimg.cc/w7hwmz23)
+[![wepik-export-20240227223957lf5-K.jpg|100](https://i.postimg.cc/Y9njHW7q/wepik-export-20240227223957lf5-K.jpg)](https://postimg.cc/hzmK8hhH)
+[![Captura-de-pantalla-2024-03-07-004808.png|100](https://i.postimg.cc/XYLr8hPC/Captura-de-pantalla-2024-03-07-004808.png)](https://postimg.cc/68766HtW)
 [![wepik-export-20240228050355-Qsq-D.jpg](https://i.postimg.cc/nzyrrtX6/wepik-export-20240228050355-Qsq-D.jpg)](https://postimg.cc/PpMTV9z4)
 [![wepik-export-202403051807106w-G7.jpg](https://i.postimg.cc/ry4zbzbc/wepik-export-202403051807106w-G7.jpg)](https://postimg.cc/Hjpp8WdP)
 [![wepik-export-20240305195340-URNR.jpg](https://i.postimg.cc/qMXqJS45/wepik-export-20240305195340-URNR.jpg)](https://postimg.cc/mtkBVdcY)
