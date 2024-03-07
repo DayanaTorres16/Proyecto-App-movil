@@ -6,4 +6,4 @@ El diseño completo, incluyendo la funcionalidad de los botones y la interfaz, s
 
 A continuación, un poco del diseño de la interfaz:
 
-
+[![wepik-export-20240227223957lf5-K-Custom.jpg](https://i.postimg.cc/BbKw2RqW wepik-export-20240227223957lf5-K-Custom.jpg)](https://postimg.cc/gLGDWSX4)
