@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:backgroundTint="#000000"
+    tools:context=".Login">
+
+    <ImageView
+        android:id="@+id/logo2"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_width="404dp"
+        android:layout_height="265dp"
+        android:layout_marginTop="4dp"
+        app:srcCompat="@drawable/logo"
+        tools:ignore="ContentDescription,MissingConstraints" />
+
+    <View
+        android:id="@+id/panelLogin"
+        android:layout_width="393dp"
+        android:layout_height="443dp"
+        android:layout_marginTop="224dp"
+        android:background="#E3CDD4"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.842"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/logo2"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/titulo_iniciosesion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/inicio_de_sesion"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="298dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/correo"
+        android:layout_width="145dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="372dp"
+        android:text="@string/correo"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.157"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/logo2"
+        tools:ignore="MissingConstraints,TextSizeCheck" />
+
+    <EditText
+        android:id="@+id/TextEmailAddress2"
+        android:layout_width="313dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="164dp"
+        android:background="#EFE7E7"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.428"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logo2"
+        tools:ignore="Autofill,LabelFor" />
+
+    <TextView
+        android:id="@+id/contraseña"
+        android:layout_width="134dp"
+        android:layout_height="34dp"
+        android:layout_marginBottom="216dp"
+        android:text="@string/contrase_a"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.151"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="TextSizeCheck" />
+
+    <EditText
+        android:id="@+id/TextPassword"
+        android:layout_width="312dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="260dp"
+        android:autofillHints=""
+        android:background="#EFE7E7"
+        android:ems="10"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.424"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/panelLogin"
+        tools:ignore="LabelFor" />
+
+    <Button
+        android:id="@+id/login2"
+        android:layout_width="237dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="56dp"
+        android:backgroundTint="#DF4444"
+        android:text="@string/iniciar_sesion"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="@+id/panelLogin"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
