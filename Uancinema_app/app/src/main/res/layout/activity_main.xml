@@ -4,8 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/black"
-    tools:context=".MainActivity">
+    android:background="@color/black">
 
 
     <ImageView
@@ -26,7 +25,7 @@
         android:layout_width="289dp"
         android:layout_height="64dp"
         android:backgroundTint="#DFCDCD"
-        android:text="@string/iniciar_sesion"
+        android:text="Iniciar_sesion"
         android:textColor="#000000"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -40,7 +39,7 @@
         android:layout_width="295dp"
         android:layout_height="65dp"
         android:backgroundTint="#D34848"
-        android:text="@string/regitrarse"
+        android:text="Regitrarse"
         android:textColor="#000000"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"
