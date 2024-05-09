@@ -4,6 +4,10 @@
         "source": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-main-33:\\drawable\\endgame.png"
     },
     {
+        "merged": "com.example.uancinema_app-debug-31:/layout_activity_visualizacion_peliculas.xml.flat",
+        "source": "com.example.uancinema_app-main-33:/layout/activity_visualizacion_peliculas.xml"
+    },
+    {
         "merged": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-debug-31:\\drawable_los100.png.flat",
         "source": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-main-33:\\drawable\\los100.png"
     },
@@ -20,12 +24,12 @@
         "source": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-debug-31:\\layout_activity_busquedad_peliculas.xml.flat",
-        "source": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-main-33:\\layout\\activity_busquedad_peliculas.xml"
-    },
-    {
         "merged": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-debug-31:\\drawable_boton_uan.png.flat",
         "source": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-main-33:\\drawable\\boton_uan.png"
+    },
+    {
+        "merged": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-debug-31:\\layout_activity_busquedad_peliculas.xml.flat",
+        "source": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-main-33:\\layout\\activity_busquedad_peliculas.xml"
     },
     {
         "merged": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -44,12 +48,12 @@
         "source": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-main-33:\\drawable\\doctor.png"
     },
     {
-        "merged": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
         "merged": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-debug-31:\\drawable_captura_de_pantalla_2024_04_05_015304.png.flat",
         "source": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-main-33:\\drawable\\captura_de_pantalla_2024_04_05_015304.png"
+    },
+    {
+        "merged": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-debug-31:\\layout_activity_registro.xml.flat",
@@ -78,10 +82,6 @@
     {
         "merged": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-debug-31:\\layout_activity_visualizacion_peliculas.xml.flat",
         "source": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-main-33:\\layout\\activity_visualizacion_peliculas.xml"
-    },
-    {
-        "merged": "com.example.uancinema_app-debug-31:/layout_activity_primera_pantalla.xml.flat",
-        "source": "com.example.uancinema_app-main-33:/layout/activity_primera_pantalla.xml"
     },
     {
         "merged": "C:\\Users\\luzda\\.gradle\\daemon\\8.4\\com.example.uancinema_app-debug-31:\\drawable_ironmam.png.flat",

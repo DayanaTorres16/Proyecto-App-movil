@@ -1,4 +1,4 @@
-#Thu May 09 16:34:32 COT 2024
+#Thu May 09 17:14:01 COT 2024
 base.0=C\:\\Users\\luzda\\Documents\\GitHub\\Proyecto-App-movil\\Uancinema_app\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\luzda\\Documents\\GitHub\\Proyecto-App-movil\\Uancinema_app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\luzda\\Documents\\GitHub\\Proyecto-App-movil\\Uancinema_app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
