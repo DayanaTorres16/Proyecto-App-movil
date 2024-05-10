@@ -12,6 +12,10 @@ class VisualizacionActivity: AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_visualizacion_peliculas)
     }
+    fun openCuartoFragment(view: View) {
+        val intent = Intent(this, CuartoFragment::class.java).apply { }
+        startActivity(intent)
+    }
     fun openDoctorStranger(view: View) {
         val intent = Intent(this, PeliculaDoctorStranger::class.java).apply { }
         startActivity(intent)

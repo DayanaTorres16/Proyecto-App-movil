@@ -11,6 +11,14 @@ class PrimeraPantallaActivity: AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_primera_pantalla)
     }
+    fun openCuartoFragment(view: View) {
+        val intent = Intent(this, CuartoFragment::class.java).apply { }
+        startActivity(intent)
+    }
+    fun openEndgame(view: View) {
+        val intent = Intent(this, PeliculaEndGame::class.java).apply { }
+        startActivity(intent)
+    }
 
     fun openVisualizacion(view: View) {
     val intent = Intent(this, VisualizacionActivity::class.java).apply { }
