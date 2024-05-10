@@ -32,6 +32,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="56dp"
+        android:onClick="openEndgame"
         android:backgroundTint="#F4EAEA"
         android:text="Ver"
         android:textColor="@color/black"
@@ -111,26 +112,30 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton9" />
 
-    <SearchView
-        android:id="@+id/searchView"
-        android:layout_width="35dp"
-        android:layout_height="38dp"
+    <ImageButton
+        android:id="@+id/imageButton20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="openBusquedadPeliculas"
+        android:backgroundTint="#00FFFFFF"
+        android:src="@android:drawable/ic_menu_info_details"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
 
     <ImageButton
-        android:id="@+id/imageButton15"
-        android:layout_width="37dp"
-        android:layout_height="32dp"
+        android:id="@+id/imageButton19"
+        android:layout_width="55dp"
+        android:layout_height="47dp"
         android:layout_marginTop="4dp"
+        android:layout_marginEnd="8dp"
+        android:background="@color/black"
+        android:onClick="openCuartoFragment"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.935"
-        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/boton_uan"
-        tools:ignore="ContentDescription" />
+        app:srcCompat="@drawable/boton_uan" />
 
     <ImageButton
         android:id="@+id/imageButton16"
@@ -177,6 +182,7 @@
         app:layout_constraintStart_toEndOf="@+id/imageButton18"
         app:layout_constraintTop_toBottomOf="@+id/imageButton13"
         app:srcCompat="@android:drawable/arrow_down_float" />
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

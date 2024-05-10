@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-116:12
-INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-116:12
-INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-116:12
-INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-116:12
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-260:12
+INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-260:12
+INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-260:12
+INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-260:12
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\c12e05c37b894fb58abd246dd17f3ab5\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\ddf324b6a45754fc446fc6eab33ec636\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\e0b36974138b4f555dc681ab61bd7cef\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -56,8 +56,8 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\luzda\.gradle\caches\transform
 	xmlns:android
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-114:19
-INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-114:19
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-258:19
+INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-258:19
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\c12e05c37b894fb58abd246dd17f3ab5\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\c12e05c37b894fb58abd246dd17f3ab5\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\ddf324b6a45754fc446fc6eab33ec636\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -130,48 +130,144 @@ ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:44:13-36
 	android:name
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:43:13-52
-activity#com.example.uancinema_app.VisualizacionActivity
+activity#com.example.uancinema_app.CuartoFragment
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:51:9-59:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:53:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:52:13-50
-activity#com.example.uancinema_app.PeliculaDoctorStranger
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:52:13-43
+activity#com.example.uancinema_app.VisualizacionActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:60:9-68:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:62:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:61:13-51
-activity#com.example.uancinema_app.PeliculaMillers
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:61:13-50
+activity#com.example.uancinema_app.PeliculaEndGame
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:69:9-77:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:71:13-36
 	android:name
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:70:13-44
-activity#com.example.uancinema_app.PeliculaAnabelle
+activity#com.example.uancinema_app.DescargarEndgame
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:78:9-86:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:80:13-36
 	android:name
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:79:13-45
-activity#com.example.uancinema_app.PeliculaRatatouille
+activity#com.example.uancinema_app.EstrellaEndgame
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:87:9-95:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:89:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:88:13-48
-activity#com.example.uancinema_app.PeliculaMalefica
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:88:13-44
+activity#com.example.uancinema_app.PeliculaDoctorStranger
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:96:9-104:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:98:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:97:13-45
-activity#com.example.uancinema_app.PeliculaAvatar
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:97:13-51
+activity#com.example.uancinema_app.DescargarDoctor
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:105:9-113:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:107:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:106:13-43
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:106:13-44
+activity#com.example.uancinema_app.EstrellaDoctor
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:114:9-122:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:116:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:115:13-43
+activity#com.example.uancinema_app.PeliculaMillers
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:123:9-131:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:125:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:124:13-44
+activity#com.example.uancinema_app.DescargarMillers
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:132:9-140:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:134:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:133:13-45
+activity#com.example.uancinema_app.EstrellaMillers
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:141:9-149:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:143:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:142:13-44
+activity#com.example.uancinema_app.PeliculaAnabelle
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:150:9-158:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:152:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:151:13-45
+activity#com.example.uancinema_app.DescargarAnabelle
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:159:9-167:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:161:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:160:13-46
+activity#com.example.uancinema_app.EstrellaAnabelle
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:168:9-176:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:170:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:169:13-45
+activity#com.example.uancinema_app.PeliculaRatatouille
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:177:9-185:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:179:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:178:13-48
+activity#com.example.uancinema_app.DescargaRatatouille
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:186:9-194:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:188:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:187:13-48
+activity#com.example.uancinema_app.EstrellaRatatouille
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:195:9-203:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:197:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:196:13-48
+activity#com.example.uancinema_app.PeliculaMalefica
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:204:9-212:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:206:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:205:13-45
+activity#com.example.uancinema_app.DescargarMalefica
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:213:9-221:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:215:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:214:13-46
+activity#com.example.uancinema_app.EstrellaMalefica
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:222:9-230:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:224:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:223:13-45
+activity#com.example.uancinema_app.PeliculaAvatar
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:231:9-239:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:233:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:232:13-43
+activity#com.example.uancinema_app.DescargarAvatar
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:240:9-248:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:242:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:241:13-44
+activity#com.example.uancinema_app.EstrellaAvatar
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:249:9-257:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:251:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:250:13-43
 uses-sdk
 INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml
