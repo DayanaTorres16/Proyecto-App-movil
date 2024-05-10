@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable chrise
+drawable chrish
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable marvel
+drawable robert
+drawable scarlett
+id IconHelp
+id TitleMARVEL
+id TitleReparto
+id TitleUAN
+id imageButton3
+id imageButton4
+id imageButton5
+id imageView10
+id imageView11
+id imageView3
+id imageView4
+id imageViewIntroMARVEL
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.UanCinema
+style Theme.UanCinema
+xml backup_rules
+xml data_extraction_rules
