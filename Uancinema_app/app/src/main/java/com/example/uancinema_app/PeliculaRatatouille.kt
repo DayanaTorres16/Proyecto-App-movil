@@ -15,6 +15,10 @@ class PeliculaRatatouille: AppCompatActivity() {
         val intent = Intent(this, CuartoFragment::class.java).apply { }
         startActivity(intent)
     }
+    fun openBusquedadPeliculas(view: View) {
+        val intent = Intent(this, PeliculasBusquedadActivity::class.java).apply { }
+        startActivity(intent)
+    }
     fun openDescargaRatatouille(view: View) {
         val intent = Intent(this, DescargaRatatouille::class.java).apply { }
         startActivity(intent)

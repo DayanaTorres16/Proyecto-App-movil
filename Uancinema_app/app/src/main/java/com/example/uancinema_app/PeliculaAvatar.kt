@@ -16,6 +16,10 @@ class PeliculaAvatar: AppCompatActivity() {
         val intent = Intent(this, CuartoFragment::class.java).apply { }
         startActivity(intent)
     }
+    fun openBusquedadPeliculas(view: View) {
+        val intent = Intent(this, PeliculasBusquedadActivity::class.java).apply { }
+        startActivity(intent)
+    }
     fun openDescargarAvatar(view: View) {
         val intent = Intent(this, DescargarAvatar::class.java).apply { }
         startActivity(intent)

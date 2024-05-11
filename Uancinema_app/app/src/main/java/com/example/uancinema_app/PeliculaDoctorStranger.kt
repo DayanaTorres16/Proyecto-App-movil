@@ -15,6 +15,10 @@ class PeliculaDoctorStranger: AppCompatActivity() {
         val intent = Intent(this, CuartoFragment::class.java).apply { }
         startActivity(intent)
     }
+    fun openBusquedadPeliculas(view: View) {
+        val intent = Intent(this, PeliculasBusquedadActivity::class.java).apply { }
+        startActivity(intent)
+    }
     fun openDescargarDoctor(view: View) {
         val intent = Intent(this, DescargarDoctor::class.java).apply { }
         startActivity(intent)
