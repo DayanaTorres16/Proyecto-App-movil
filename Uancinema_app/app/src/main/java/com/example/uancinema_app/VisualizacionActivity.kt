@@ -16,6 +16,10 @@ class VisualizacionActivity: AppCompatActivity() {
         val intent = Intent(this, CuartoFragment::class.java).apply { }
         startActivity(intent)
     }
+    fun openBusquedadPeliculas(view: View) {
+        val intent = Intent(this, PeliculasBusquedadActivity::class.java).apply { }
+        startActivity(intent)
+    }
     fun openDoctorStranger(view: View) {
         val intent = Intent(this, PeliculaDoctorStranger::class.java).apply { }
         startActivity(intent)

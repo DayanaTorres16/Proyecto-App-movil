@@ -16,4 +16,16 @@ class PeliculasBusquedadActivity: AppCompatActivity() {
         val intent = Intent(this, CuartoFragment::class.java).apply { }
         startActivity(intent)
     }
+    fun openPeliculaIronmna1(view: View) {
+        val intent = Intent(this, TercerFragment::class.java).apply { }
+        startActivity(intent)
+    }fun openPeliculaIronman2(view: View) {
+        val intent = Intent(this, PrimerFragment::class.java).apply { }
+        startActivity(intent)
+    }
+    fun openPeliculaIronman3(view: View) {
+        val intent = Intent(this, SegundoFragment::class.java).apply { }
+        startActivity(intent)
+    }
+
 }

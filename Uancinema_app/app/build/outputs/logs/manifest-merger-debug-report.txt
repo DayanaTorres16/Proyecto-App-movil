@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-260:12
-INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-260:12
-INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-260:12
-INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-260:12
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-296:12
+INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-296:12
+INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-296:12
+INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-296:12
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\c12e05c37b894fb58abd246dd17f3ab5\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\ddf324b6a45754fc446fc6eab33ec636\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\e0b36974138b4f555dc681ab61bd7cef\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -56,8 +56,8 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\luzda\.gradle\caches\transform
 	xmlns:android
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-258:19
-INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-258:19
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-294:19
+INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-294:19
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\c12e05c37b894fb58abd246dd17f3ab5\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\c12e05c37b894fb58abd246dd17f3ab5\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\ddf324b6a45754fc446fc6eab33ec636\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -268,6 +268,30 @@ ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:251:13-36
 	android:name
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:250:13-43
+activity#com.example.uancinema_app.PeliculasBusquedadActivity
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:258:9-266:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:260:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:259:13-55
+activity#com.example.uancinema_app.PrimerFragment
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:267:9-275:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:269:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:268:13-43
+activity#com.example.uancinema_app.SegundoFragment
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:276:9-284:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:278:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:277:13-44
+activity#com.example.uancinema_app.TercerFragment
+ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:285:9-293:20
+	android:exported
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:287:13-36
+	android:name
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:286:13-43
 uses-sdk
 INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml

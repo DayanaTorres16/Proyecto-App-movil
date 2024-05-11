@@ -15,6 +15,10 @@ class PrimeraPantallaActivity: AppCompatActivity() {
         val intent = Intent(this, CuartoFragment::class.java).apply { }
         startActivity(intent)
     }
+    fun openBusquedadPeliculas(view: View) {
+        val intent = Intent(this, PeliculasBusquedadActivity::class.java).apply { }
+        startActivity(intent)
+    }
     fun openEndgame(view: View) {
         val intent = Intent(this, PeliculaEndGame::class.java).apply { }
         startActivity(intent)
