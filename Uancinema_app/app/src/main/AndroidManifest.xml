@@ -13,6 +13,14 @@
         android:theme="@style/Theme.Uancinema_app"
         tools:targetApi="31">
         <activity
+            android:name=".AnneActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".RepartoActivity2"
+            android:exported="false"
+            android:label="@string/title_activity_reparto2"
+            android:theme="@style/Theme.Uancinema_app" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
