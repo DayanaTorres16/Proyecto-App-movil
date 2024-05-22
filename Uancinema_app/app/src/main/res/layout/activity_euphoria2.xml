@@ -6,140 +6,140 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#000000"
-    tools:context=".AnneActivity2">
+    tools:context=".euphoriaActivity2">
 
     <ImageView
-        android:id="@+id/imageView27"
-        android:layout_width="409dp"
-        android:layout_height="456dp"
-        android:background="@drawable/anne"
+        android:id="@+id/imageView29"
+        android:layout_width="408dp"
+        android:layout_height="418dp"
+        android:background="@drawable/euphoria"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.333"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/anne" />
+        app:srcCompat="@drawable/euphoria" />
 
     <Button
-        android:id="@+id/button"
-        android:layout_width="169dp"
-        android:layout_height="48dp"
+        android:id="@+id/button9"
+        android:layout_width="183dp"
+        android:layout_height="52dp"
         android:backgroundTint="#FFFFFF"
         android:text="Reproducir"
         android:textColor="#000000"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.115"
+        app:layout_constraintHorizontal_bias="0.07"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.653" />
+        app:layout_constraintVertical_bias="0.615" />
 
     <Button
-        android:id="@+id/button3"
-        android:layout_width="168dp"
-        android:layout_height="50dp"
-        android:backgroundTint="@color/material_dynamic_neutral_variant50"
+        android:id="@+id/button10"
+        android:layout_width="185dp"
+        android:layout_height="55dp"
+        android:backgroundTint="@color/material_dynamic_neutral50"
         android:text="Descargado"
         android:textColor="#000000"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.391"
-        app:layout_constraintStart_toEndOf="@+id/button"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.654" />
-
-    <TextView
-        android:id="@+id/textView18"
-        android:layout_width="377dp"
-        android:layout_height="135dp"
-        android:text="La energética Anne Shirley llega por equivocacion a Green Gables, donde los hermanos Matthew y Marilla Cuthbert esperan un niño. "
-        android:textColor="#FFFFFF"
-        android:textSize="20sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintHorizontal_bias="0.93"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.944" />
+        app:layout_constraintVertical_bias="0.616" />
 
     <ImageButton
-        android:id="@+id/imageButton15"
+        android:id="@+id/imageButton37"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#000000"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.078"
+        app:layout_constraintHorizontal_bias="0.045"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.726"
+        app:layout_constraintVertical_bias="0.691"
         app:srcCompat="@android:drawable/ic_media_play" />
 
     <ImageButton
-        android:id="@+id/imageButton21"
-        android:layout_width="64dp"
+        android:id="@+id/imageButton38"
+        android:layout_width="63dp"
+        android:layout_height="50dp"
+        android:backgroundTint="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.163"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.69"
+        app:srcCompat="@android:drawable/stat_notify_sync" />
+
+    <ImageButton
+        android:id="@+id/imageButton39"
+        android:layout_width="58dp"
         android:layout_height="51dp"
         android:backgroundTint="#000000"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.242"
+        app:layout_constraintHorizontal_bias="0.283"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.726"
-        app:srcCompat="@android:drawable/stat_notify_sync" />
-
-    <ImageButton
-        android:id="@+id/imageButton22"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:backgroundTint="#000000"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.416"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.729"
+        app:layout_constraintVertical_bias="0.694"
         app:srcCompat="@android:drawable/ic_menu_add" />
 
     <ImageButton
-        android:id="@+id/imageButton23"
+        android:id="@+id/imageButton40"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#000000"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.574"
+        app:layout_constraintHorizontal_bias="0.402"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.729"
+        app:layout_constraintVertical_bias="0.691"
         app:srcCompat="@android:drawable/btn_star" />
 
-    <TextView
-        android:id="@+id/textView19"
+    <ImageButton
+        android:id="@+id/imageButton41"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="UAN"
-        android:textColor="#F1F1F1"
-        android:textSize="14sp"
-        app:layout_constraintBottom_toTopOf="@+id/button3"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
-
-    <ImageButton
-        android:id="@+id/imageButton29"
-        android:layout_width="46dp"
-        android:layout_height="45dp"
         android:backgroundTint="#00000000"
-        app:layout_constraintBottom_toTopOf="@+id/button"
+        app:layout_constraintBottom_toTopOf="@+id/button9"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@android:drawable/ic_menu_info_details" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UAN"
+        android:textColor="#C6C2C2"
+        app:layout_constraintBottom_toTopOf="@+id/button10"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="377dp"
+        android:layout_height="183dp"
+        android:text="Al crecer, Rue Bennett luchó con múltiples trastornos mentales que la llevaron a la adicción a las drogas durante su adolescencia. Ahora con 17 años, Rue regresa a casa de la rehabilitación e inmediatamente le compra drogas a su amigo y traficante de drogas Fezco."
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView29"
+        app:layout_constraintVertical_bias="0.876" />
 </androidx.constraintlayout.widget.ConstraintLayout>

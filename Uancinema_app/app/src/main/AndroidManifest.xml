@@ -13,6 +13,24 @@
         android:theme="@style/Theme.Uancinema_app"
         tools:targetApi="31">
         <activity
+            android:name=".MiListaActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".BreackingBadActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GilmoreGirlsActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".BridgertonActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".euphoriaActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".YouActivity2"
+            android:exported="false" />
+        <activity
             android:name=".AnneActivity2"
             android:exported="false" />
         <activity
