@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.uancinema_app-mergeDebugResources-29:/values-v23/values-v23.xml",
+            "outputFile": "com.example.uancinema_app-mergeDebugResources-35:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\44f2e44cbbbd3053723086f6aa1a7560\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\faafb2ba2402ddd96bcf3da1f29d1434\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\c12e05c37b894fb58abd246dd17f3ab5\\transformed\\material-1.10.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\f8e81ab33e959537b2bc5eb4aef9d92b\\transformed\\material-1.10.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,9,13,16,21,25,28,31,34,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\7fd3f7b85cd11588703f2df3b96d3544\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\d6ba048d3d14ad158afdba4f238b90fa\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

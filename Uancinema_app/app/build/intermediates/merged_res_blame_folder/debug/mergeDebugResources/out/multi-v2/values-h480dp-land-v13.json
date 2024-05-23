@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.uancinema_app-mergeDebugResources-29:/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+            "outputFile": "com.example.uancinema_app-mergeDebugResources-35:/values-h480dp-land-v13/values-h480dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\c12e05c37b894fb58abd246dd17f3ab5\\transformed\\material-1.10.0\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
+                    "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\f8e81ab33e959537b2bc5eb4aef9d92b\\transformed\\material-1.10.0\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

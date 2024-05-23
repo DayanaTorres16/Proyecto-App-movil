@@ -8,6 +8,14 @@
         android:minSdkVersion="24"
         android:targetSdkVersion="34" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
+    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+
     <permission
         android:name="com.example.uancinema_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
@@ -82,7 +90,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.PeliculaEndGame"
+            android:name="com.example.uancinema_app.PeliculaEndGameActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -91,7 +99,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.DescargarEndgame"
+            android:name="com.example.uancinema_app.DescargarEndgameActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -100,7 +108,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.EstrellaEndgame"
+            android:name="com.example.uancinema_app.EstrellaEndgameActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -109,7 +117,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.PeliculaDoctorStranger"
+            android:name="com.example.uancinema_app.PeliculaDoctorStrangerActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -118,7 +126,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.DescargarDoctor"
+            android:name="com.example.uancinema_app.DescargarDoctorActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -127,7 +135,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.EstrellaDoctor"
+            android:name="com.example.uancinema_app.EstrellaDoctorActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -136,7 +144,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.PeliculaMillers"
+            android:name="com.example.uancinema_app.PeliculaMillersActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -145,7 +153,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.DescargarMillers"
+            android:name="com.example.uancinema_app.DescargarMillersActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -154,7 +162,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.EstrellaMillers"
+            android:name="com.example.uancinema_app.EstrellaMillersActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -163,7 +171,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.PeliculaAnabelle"
+            android:name="com.example.uancinema_app.PeliculaAnabelleActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -172,7 +180,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.DescargarAnabelle"
+            android:name="com.example.uancinema_app.DescargarAnabelleActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -181,7 +189,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.EstrellaAnabelle"
+            android:name="com.example.uancinema_app.EstrellaAnabelleActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -190,7 +198,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.PeliculaRatatouille"
+            android:name="com.example.uancinema_app.PeliculaRatatouilleActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -199,7 +207,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.DescargaRatatouille"
+            android:name="com.example.uancinema_app.DescargaRatatouilleActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -208,7 +216,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.EstrellaRatatouille"
+            android:name="com.example.uancinema_app.EstrellaRatatouilleActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -217,7 +225,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.PeliculaMalefica"
+            android:name="com.example.uancinema_app.PeliculaMaleficaActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -226,7 +234,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.DescargarMalefica"
+            android:name="com.example.uancinema_app.DescargarMaleficaActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -235,7 +243,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.EstrellaMalefica"
+            android:name="com.example.uancinema_app.EstrellaMaleficaActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -244,7 +252,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.PeliculaAvatar"
+            android:name="com.example.uancinema_app.PeliculaAvatarActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -253,7 +261,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.DescargarAvatar"
+            android:name="com.example.uancinema_app.DescargarAvatarActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -262,7 +270,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.uancinema_app.EstrellaAvatar"
+            android:name="com.example.uancinema_app.EstrellaAvatarActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -306,6 +314,62 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <property
+            android:name="android.adservices.AD_SERVICES_CONFIG"
+            android:resource="@xml/ga_ad_services_config" />
+
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <uses-library
+            android:name="android.ext.adservices"
+            android:required="false" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.uancinema_app.firebaseinitprovider"
+            android:directBootAware="true"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

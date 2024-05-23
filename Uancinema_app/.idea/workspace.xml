@@ -5,7 +5,52 @@
       <config />
     </shared>
     <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_anabelle_descargar.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_anabelle_estrella.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_avatar_descargar.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_avatar_estrella.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_busquedad_peliculas.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_doctor_descargar.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_doctor_estrella.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_endgame_descargar.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_engame_estrella.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_informacion_pelicula_ironman.xml">
         <config>
           <theme>@style/Theme.Uancinema_app</theme>
         </config>
@@ -20,7 +65,72 @@
           <theme>@style/Theme.Uancinema_app</theme>
         </config>
       </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_malefica_descargar.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_malefica_estrella.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_millers_descargar.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_millers_estrella.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_anabelle.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_avatar.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_doctor_stranger.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_endgame.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_malefica.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_millers_girl.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_ratatoulle.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_primera_pantalla.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_ratatouille_descarga.xml">
+        <config>
+          <theme>@style/Theme.Uancinema_app</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_ratatouille_estrella.xml">
         <config>
           <theme>@style/Theme.Uancinema_app</theme>
         </config>
@@ -31,46 +141,6 @@
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_visualizacion_peliculas.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/anabelle_descargar.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/anabelle_estrella.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/avatar_descargar.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/avatar_estrella.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/doctor_descargar.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/doctor_estrella.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/endgame_descargar.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/engame_estrella.xml">
         <config>
           <theme>@style/Theme.Uancinema_app</theme>
         </config>
@@ -105,83 +175,74 @@
           <theme>@style/Theme.Uancinema_app</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/informacion_pelicula_ironman.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/malefica_descargar.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/malefica_estrella.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/millers_descargar.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/millers_estrella.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/pelicula_anabelle.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/pelicula_avatar.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/pelicula_doctor_stranger.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/pelicula_endgame.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/pelicula_malefica.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/pelicula_millers_girl.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/pelicula_ratatoulle.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/ratatouille_descarga.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/ratatouille_estrella.xml">
-        <config>
-          <theme>@style/Theme.Uancinema_app</theme>
-        </config>
-      </layout>
     </layouts>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="185f030c-9395-4ab3-8747-dac4dc32ceb0" name="Changes" comment="" />
+    <list default="true" id="185f030c-9395-4ab3-8747-dac4dc32ceb0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargaRatatouille.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargaRatatouilleActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargarAnabelle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargarAnabelleActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargarAvatar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargarAvatarActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargarDoctor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargarDoctorActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargarEndgame.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargarEndgameActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargarMalefica.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargarMaleficaActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargarMillers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/DescargarMillersActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaAnabelle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaAnabelleActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaAvatar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaAvatarActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaDoctor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaDoctorActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaEndgame.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaEndgameActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaMalefica.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaMaleficaActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaMillers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaMillersActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaRatatouille.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/EstrellaRatatouilleActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaAnabelle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaAnabelleActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaAvatar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaAvatarActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaDoctorStranger.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaDoctorStrangerActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaEndGame.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaEndGameActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaMalefica.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaMaleficaActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaMillers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaMillersActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaRatatouille.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PeliculaRatatouilleActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PrimeraPantallaActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/PrimeraPantallaActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/VisualizacionActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uancinema_app/VisualizacionActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/anabelle_descargar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_anabelle_descargar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/anabelle_estrella.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_anabelle_estrella.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/avatar_descargar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_avatar_descargar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/avatar_estrella.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_avatar_estrella.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/doctor_descargar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_doctor_descargar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/doctor_estrella.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_doctor_estrella.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/endgame_descargar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_endgame_descargar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/engame_estrella.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_engame_estrella.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/informacion_pelicula_ironman.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_informacion_pelicula_ironman.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/malefica_descargar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_malefica_descargar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/malefica_estrella.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_malefica_estrella.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/millers_descargar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_millers_descargar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/millers_estrella.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_millers_estrella.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/pelicula_anabelle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_anabelle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/pelicula_avatar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_avatar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/pelicula_doctor_stranger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_doctor_stranger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/pelicula_endgame.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_endgame.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/pelicula_malefica.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_malefica.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/pelicula_millers_girl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_millers_girl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/pelicula_ratatoulle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pelicula_ratatoulle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/ratatouille_descarga.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_ratatouille_descarga.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/ratatouille_estrella.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_ratatouille_estrella.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -229,6 +290,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2fOfS52AKdp2XrKZVf9cV4DjOyL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -241,10 +305,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "Valentina__2"
+    "git-widget-placeholder": "Dayana__Torres__2",
+    "last_opened_file_path": "C:/Users/luzda/Documents/GitHub/Proyecto-App-movil/Uancinema_app/app"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\res\drawable" />
     </key>
