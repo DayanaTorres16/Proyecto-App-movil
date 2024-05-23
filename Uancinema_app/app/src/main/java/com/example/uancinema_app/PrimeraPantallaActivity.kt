@@ -20,7 +20,7 @@ class PrimeraPantallaActivity: AppCompatActivity() {
         startActivity(intent)
     }
     fun openEndgame(view: View) {
-        val intent = Intent(this, PeliculaEndGame::class.java).apply { }
+        val intent = Intent(this, PeliculaEndGameActivity::class.java).apply { }
         startActivity(intent)
     }
 
@@ -29,27 +29,27 @@ class PrimeraPantallaActivity: AppCompatActivity() {
     startActivity(intent)
 }
     fun openDoctorStranger(view: View) {
-        val intent = Intent(this, PeliculaDoctorStranger::class.java).apply { }
+        val intent = Intent(this, PeliculaDoctorStrangerActivity::class.java).apply { }
         startActivity(intent)
     }
     fun openMillers(view: View) {
-        val intent = Intent(this, PeliculaMillers::class.java).apply { }
+        val intent = Intent(this, PeliculaMillersActivity::class.java).apply { }
         startActivity(intent)
     }
     fun openAnabelle(view: View) {
-        val intent = Intent(this, PeliculaAnabelle::class.java).apply { }
+        val intent = Intent(this, PeliculaAnabelleActivity::class.java).apply { }
         startActivity(intent)
     }
     fun openRatatouille(view: View) {
-        val intent = Intent(this, PeliculaRatatouille::class.java).apply { }
+        val intent = Intent(this, PeliculaRatatouilleActivity::class.java).apply { }
         startActivity(intent)
     }
     fun openMalefica(view: View) {
-        val intent = Intent(this, PeliculaMalefica::class.java).apply { }
+        val intent = Intent(this, PeliculaMaleficaActivity::class.java).apply { }
         startActivity(intent)
     }
     fun openAvatar(view: View) {
-        val intent = Intent(this, PeliculaAvatar::class.java).apply { }
+        val intent = Intent(this, PeliculaAvatarActivity::class.java).apply { }
         startActivity(intent)
     }
 }

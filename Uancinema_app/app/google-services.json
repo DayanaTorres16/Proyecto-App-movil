@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033079672442",
+    "project_id": "uanflix",
+    "storage_bucket": "uanflix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033079672442:android:76130b5695848f9d8ab5c3",
+        "android_client_info": {
+          "package_name": "com.example.uancinema_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvhiAycP1z2E51FvbGbJHM6CFborvWPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

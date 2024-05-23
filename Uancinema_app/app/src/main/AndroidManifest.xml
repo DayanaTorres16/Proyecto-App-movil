@@ -67,7 +67,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".PeliculaEndGame"
+            android:name=".PeliculaEndGameActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -76,7 +76,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DescargarEndgame"
+            android:name=".DescargarEndgameActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -85,7 +85,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".EstrellaEndgame"
+            android:name=".EstrellaEndgameActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -94,7 +94,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".PeliculaDoctorStranger"
+            android:name=".PeliculaDoctorStrangerActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -103,7 +103,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DescargarDoctor"
+            android:name=".DescargarDoctorActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -112,7 +112,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".EstrellaDoctor"
+            android:name=".EstrellaDoctorActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -121,7 +121,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".PeliculaMillers"
+            android:name=".PeliculaMillersActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -130,7 +130,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DescargarMillers"
+            android:name=".DescargarMillersActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -139,7 +139,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".EstrellaMillers"
+            android:name=".EstrellaMillersActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -148,7 +148,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".PeliculaAnabelle"
+            android:name=".PeliculaAnabelleActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -157,7 +157,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DescargarAnabelle"
+            android:name=".DescargarAnabelleActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -166,7 +166,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".EstrellaAnabelle"
+            android:name=".EstrellaAnabelleActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -175,7 +175,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".PeliculaRatatouille"
+            android:name=".PeliculaRatatouilleActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -184,7 +184,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DescargaRatatouille"
+            android:name=".DescargaRatatouilleActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -193,7 +193,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".EstrellaRatatouille"
+            android:name=".EstrellaRatatouilleActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -202,7 +202,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".PeliculaMalefica"
+            android:name=".PeliculaMaleficaActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -211,7 +211,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DescargarMalefica"
+            android:name=".DescargarMaleficaActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -220,7 +220,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".EstrellaMalefica"
+            android:name=".EstrellaMaleficaActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -229,7 +229,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".PeliculaAvatar"
+            android:name=".PeliculaAvatarActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -238,7 +238,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DescargarAvatar"
+            android:name=".DescargarAvatarActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -247,7 +247,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".EstrellaAvatar"
+            android:name=".EstrellaAvatarActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

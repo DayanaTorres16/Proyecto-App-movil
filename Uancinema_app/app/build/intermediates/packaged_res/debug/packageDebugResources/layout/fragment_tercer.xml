@@ -145,16 +145,16 @@
 
     <TextView
         android:id="@+id/textView9"
-        android:layout_width="386dp"
-        android:layout_height="189dp"
+        android:layout_width="380dp"
+        android:layout_height="200dp"
         android:text="Tony Stark, un genio multimillonario, construye una armadura de alta tecnología para escapar de un secuestro y decide usarla para convertirse en el superhéroe Iron Man, luchando contra el mal."
         android:textColor="#FFFFFF"
         android:textColorLink="@color/white"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.72"
+        app:layout_constraintHorizontal_bias="0.516"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.97" />
+        app:layout_constraintVertical_bias="0.994" />
 </androidx.constraintlayout.widget.ConstraintLayout>

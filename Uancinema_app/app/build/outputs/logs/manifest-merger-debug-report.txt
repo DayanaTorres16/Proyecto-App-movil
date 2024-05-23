@@ -4,47 +4,66 @@ ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\
 INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-296:12
 INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-296:12
 INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:2:1-296:12
-MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\c12e05c37b894fb58abd246dd17f3ab5\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\ddf324b6a45754fc446fc6eab33ec636\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\e0b36974138b4f555dc681ab61bd7cef\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\7fd3f7b85cd11588703f2df3b96d3544\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\4ef3e4eef32e2bba96e0ebebee5744b4\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\luzda\.gradle\caches\transforms-3\0a96882815cddc737f042bccad4a7e84\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.8.0] C:\Users\luzda\.gradle\caches\transforms-3\5e9d662c2c00a197b09ee17192eb9cc1\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\b1fdc92012020d0d760fc73dd22e4bbe\transformed\core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\03163a59e2b87275ff366201517c6d88\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1f12b346925ae0dccc052cd3dd0b71cd\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\cd8ecaa2eaedd9ec64442c583f14f074\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\512d4a7aae01e90f5c797a9761e6e369\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\e0e437d7ea5fb47d70bbac4b499eeec2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\8886eeda50624113142f713d432906ce\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\9a13e75d858da71b20707708a56cefed\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\b1478d3268cfdf8ed18efd8b05c802f0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\9b98ce5d7923a9883860b5bde01f298a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d686f8de1aab66b7e558628dc1a90b9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0780c0fc615a7334b3a84338e312822e\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\9e72763cedc94cb385f1ce8e4a2afb2a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\54ae45baa6eb964ce603c168d795f0a9\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\luzda\.gradle\caches\transforms-3\fa12240bf32b116bab2be3fd2087a5f7\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\56858ab36f93e9b32ae53260c09bd33a\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\85f0d3019ce6686b92851a5db0b0f484\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\89e8f6ad78e4060d583d8a4dfb630e29\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\073c1fdccd24ccb775904b3e7562c407\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\0069e29226036c7e53d289dd6b7cb333\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\21de947a585066699bd15b69edf2786d\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\35637c27b9d69e2cbe5ea0e08fed6d92\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a25d4778bdd238569299217859e2c611\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\44f2e44cbbbd3053723086f6aa1a7560\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5626bc91db35ebf1e3aceb6f36f4e774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d2034e131b8bae6b9ba530e5c79a500b\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\583c3d9eeaed8bf280fdc01cd78d45e6\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\1d166331551c4fd0df57d080d76b38de\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\luzda\.gradle\caches\transforms-3\fb953d4e36c118eb086d73b35b68b69a\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a817e83e39df36bfbaf9b5fb2cd56240\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\c17d96c23a9a75bfc2cbbd51435e2b8c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\6962bae23e2af9a19e63c59df9040255\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\f8e81ab33e959537b2bc5eb4aef9d92b\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\59fc14e96237f06c6206a7f3305afccb\transformed\firebase-analytics-22.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\50040913ddcf9dd15a3172f4edc3f7ce\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\b5a62a6f6ba41cef3329f701d530de5d\transformed\play-services-measurement-sdk-22.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\00b43934fcbbd16d58fc14d2840b4364\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\087eb27edcdf8f8e3e53113421122d69\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\411827cb8dbcaf190bbaedcfa83f3b88\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\35435b75f8faba8872fef65286422a62\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\d6ba048d3d14ad158afdba4f238b90fa\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\c69fd40114f8e1c6e3d2a6e4d05b93a8\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\949c3a35b59b8cca2a11fdd9f3c7107b\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\45587b62e87bc9633eb38fc1c8cc216c\transformed\play-services-measurement-base-22.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\luzda\.gradle\caches\transforms-3\ea00c92a0645fa33aa24b36cdf89907b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\luzda\.gradle\caches\transforms-3\fdf690bbb001690a297561a8a1bcdef2\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\luzda\.gradle\caches\transforms-3\8fa296379c0e1085d65d6421cd7949ce\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\luzda\.gradle\caches\transforms-3\4238b7ab7a1459ee502953fc57f0a9bd\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c61672a11a9031abead460f9507aa7b3\transformed\play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\luzda\.gradle\caches\transforms-3\b940792072ff92b56e68498bfebd6940\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\luzda\.gradle\caches\transforms-3\26d4b27e0519f987038927979fb83fa4\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\7779691a17b00d8290447c16e79ec9ee\transformed\core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\44ae3b836f9626803b6220f6d98c3c57\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\3ff79c16f2d4c18dbe4e44a8aa99380c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\f57fe3db434981f05713fc0e40dc90a1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\7632cd219ec8067df96c480743eea359\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\119365569b971ade9b11e1776c9cb682\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\c6268c6fe6bc85cdadaab80ccba2ac49\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\e4ae1965c606878e098c9e9f05098f29\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d0c6cc6dd28a182f61ca8947574b0e47\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d7c9f4fd6a62b37b570b05b23c3bd777\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\fc59e3cbe8f2668880395da9f8b8297f\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\c119d6a77422b523a91cac9501bfc868\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\2548eb1a1c853f0d7abb364f01e1f17b\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\luzda\.gradle\caches\transforms-3\75503b12eed7f0de3755f5081faf5b1e\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\e94e47a10ed4d1bacbe9312562477de7\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\34d9b32ee0bc589f7a7d0d4fec6ad224\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\994c19a72d6edfc79034a88057479d69\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\dde67b0cb7d3d7fa793071db9ca0a911\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\b69d2dfa40cdddb082ce4194bd0942d4\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\0e53e83c1819f106e5d9e240730ce679\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c9ae9be2501ed7cc6dcb5ff8308b5603\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\710aa7908e57243034f20b13c8f43f7a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\faafb2ba2402ddd96bcf3da1f29d1434\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5ed69a51017f9f878f0e935eb58b4e1b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10e40642d2cac858cc9395b99d16267b\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\b93bfe96cdb1f64219b85aefdf1d281b\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\09731587ba973b28a0c21d59aa871ca3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1b17c09a42322a31ae336611ef1f21a5\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\869faaf9efdb403ecdb9127d1caef0ee\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\4637dc83d6893433757de82dc08f19a1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d372d4e8f3b347252557898bb2027259\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\72d4a5f736aa41ce76f0c6936c473cd6\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 	package
 		INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -58,26 +77,56 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\luzda\.gradle\caches\transform
 application
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-294:19
 INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-294:19
-MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\c12e05c37b894fb58abd246dd17f3ab5\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\c12e05c37b894fb58abd246dd17f3ab5\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\ddf324b6a45754fc446fc6eab33ec636\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\ddf324b6a45754fc446fc6eab33ec636\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1f12b346925ae0dccc052cd3dd0b71cd\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1f12b346925ae0dccc052cd3dd0b71cd\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\85f0d3019ce6686b92851a5db0b0f484\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\85f0d3019ce6686b92851a5db0b0f484\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5626bc91db35ebf1e3aceb6f36f4e774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5626bc91db35ebf1e3aceb6f36f4e774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\1d166331551c4fd0df57d080d76b38de\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\1d166331551c4fd0df57d080d76b38de\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\f8e81ab33e959537b2bc5eb4aef9d92b\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\f8e81ab33e959537b2bc5eb4aef9d92b\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\59fc14e96237f06c6206a7f3305afccb\transformed\firebase-analytics-22.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\59fc14e96237f06c6206a7f3305afccb\transformed\firebase-analytics-22.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\50040913ddcf9dd15a3172f4edc3f7ce\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\50040913ddcf9dd15a3172f4edc3f7ce\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\b5a62a6f6ba41cef3329f701d530de5d\transformed\play-services-measurement-sdk-22.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\b5a62a6f6ba41cef3329f701d530de5d\transformed\play-services-measurement-sdk-22.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\087eb27edcdf8f8e3e53113421122d69\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\087eb27edcdf8f8e3e53113421122d69\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\411827cb8dbcaf190bbaedcfa83f3b88\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\411827cb8dbcaf190bbaedcfa83f3b88\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\949c3a35b59b8cca2a11fdd9f3c7107b\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\949c3a35b59b8cca2a11fdd9f3c7107b\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\45587b62e87bc9633eb38fc1c8cc216c\transformed\play-services-measurement-base-22.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\45587b62e87bc9633eb38fc1c8cc216c\transformed\play-services-measurement-base-22.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\luzda\.gradle\caches\transforms-3\ea00c92a0645fa33aa24b36cdf89907b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\luzda\.gradle\caches\transforms-3\ea00c92a0645fa33aa24b36cdf89907b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\luzda\.gradle\caches\transforms-3\8fa296379c0e1085d65d6421cd7949ce\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\luzda\.gradle\caches\transforms-3\8fa296379c0e1085d65d6421cd7949ce\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\luzda\.gradle\caches\transforms-3\4238b7ab7a1459ee502953fc57f0a9bd\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\luzda\.gradle\caches\transforms-3\4238b7ab7a1459ee502953fc57f0a9bd\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c61672a11a9031abead460f9507aa7b3\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c61672a11a9031abead460f9507aa7b3\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\34d9b32ee0bc589f7a7d0d4fec6ad224\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\34d9b32ee0bc589f7a7d0d4fec6ad224\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5ed69a51017f9f878f0e935eb58b4e1b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5ed69a51017f9f878f0e935eb58b4e1b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\09731587ba973b28a0c21d59aa871ca3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\09731587ba973b28a0c21d59aa871ca3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
 		INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
@@ -142,132 +191,132 @@ ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:62:13-36
 	android:name
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:61:13-50
-activity#com.example.uancinema_app.PeliculaEndGame
+activity#com.example.uancinema_app.PeliculaEndGameActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:69:9-77:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:71:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:70:13-44
-activity#com.example.uancinema_app.DescargarEndgame
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:70:13-52
+activity#com.example.uancinema_app.DescargarEndgameActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:78:9-86:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:80:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:79:13-45
-activity#com.example.uancinema_app.EstrellaEndgame
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:79:13-53
+activity#com.example.uancinema_app.EstrellaEndgameActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:87:9-95:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:89:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:88:13-44
-activity#com.example.uancinema_app.PeliculaDoctorStranger
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:88:13-52
+activity#com.example.uancinema_app.PeliculaDoctorStrangerActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:96:9-104:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:98:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:97:13-51
-activity#com.example.uancinema_app.DescargarDoctor
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:97:13-59
+activity#com.example.uancinema_app.DescargarDoctorActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:105:9-113:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:107:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:106:13-44
-activity#com.example.uancinema_app.EstrellaDoctor
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:106:13-52
+activity#com.example.uancinema_app.EstrellaDoctorActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:114:9-122:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:116:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:115:13-43
-activity#com.example.uancinema_app.PeliculaMillers
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:115:13-51
+activity#com.example.uancinema_app.PeliculaMillersActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:123:9-131:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:125:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:124:13-44
-activity#com.example.uancinema_app.DescargarMillers
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:124:13-52
+activity#com.example.uancinema_app.DescargarMillersActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:132:9-140:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:134:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:133:13-45
-activity#com.example.uancinema_app.EstrellaMillers
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:133:13-53
+activity#com.example.uancinema_app.EstrellaMillersActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:141:9-149:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:143:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:142:13-44
-activity#com.example.uancinema_app.PeliculaAnabelle
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:142:13-52
+activity#com.example.uancinema_app.PeliculaAnabelleActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:150:9-158:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:152:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:151:13-45
-activity#com.example.uancinema_app.DescargarAnabelle
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:151:13-53
+activity#com.example.uancinema_app.DescargarAnabelleActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:159:9-167:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:161:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:160:13-46
-activity#com.example.uancinema_app.EstrellaAnabelle
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:160:13-54
+activity#com.example.uancinema_app.EstrellaAnabelleActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:168:9-176:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:170:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:169:13-45
-activity#com.example.uancinema_app.PeliculaRatatouille
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:169:13-53
+activity#com.example.uancinema_app.PeliculaRatatouilleActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:177:9-185:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:179:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:178:13-48
-activity#com.example.uancinema_app.DescargaRatatouille
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:178:13-56
+activity#com.example.uancinema_app.DescargaRatatouilleActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:186:9-194:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:188:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:187:13-48
-activity#com.example.uancinema_app.EstrellaRatatouille
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:187:13-56
+activity#com.example.uancinema_app.EstrellaRatatouilleActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:195:9-203:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:197:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:196:13-48
-activity#com.example.uancinema_app.PeliculaMalefica
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:196:13-56
+activity#com.example.uancinema_app.PeliculaMaleficaActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:204:9-212:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:206:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:205:13-45
-activity#com.example.uancinema_app.DescargarMalefica
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:205:13-53
+activity#com.example.uancinema_app.DescargarMaleficaActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:213:9-221:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:215:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:214:13-46
-activity#com.example.uancinema_app.EstrellaMalefica
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:214:13-54
+activity#com.example.uancinema_app.EstrellaMaleficaActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:222:9-230:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:224:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:223:13-45
-activity#com.example.uancinema_app.PeliculaAvatar
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:223:13-53
+activity#com.example.uancinema_app.PeliculaAvatarActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:231:9-239:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:233:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:232:13-43
-activity#com.example.uancinema_app.DescargarAvatar
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:232:13-51
+activity#com.example.uancinema_app.DescargarAvatarActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:240:9-248:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:242:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:241:13-44
-activity#com.example.uancinema_app.EstrellaAvatar
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:241:13-52
+activity#com.example.uancinema_app.EstrellaAvatarActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:249:9-257:20
 	android:exported
 		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:251:13-36
 	android:name
-		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:250:13-43
+		ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:250:13-51
 activity#com.example.uancinema_app.PeliculasBusquedadActivity
 ADDED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:258:9-266:20
 	android:exported
@@ -296,179 +345,381 @@ uses-sdk
 INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\c12e05c37b894fb58abd246dd17f3ab5\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\c12e05c37b894fb58abd246dd17f3ab5\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\ddf324b6a45754fc446fc6eab33ec636\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\ddf324b6a45754fc446fc6eab33ec636\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\e0b36974138b4f555dc681ab61bd7cef\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\e0b36974138b4f555dc681ab61bd7cef\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\7fd3f7b85cd11588703f2df3b96d3544\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\7fd3f7b85cd11588703f2df3b96d3544\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\4ef3e4eef32e2bba96e0ebebee5744b4\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\4ef3e4eef32e2bba96e0ebebee5744b4\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\luzda\.gradle\caches\transforms-3\0a96882815cddc737f042bccad4a7e84\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\luzda\.gradle\caches\transforms-3\0a96882815cddc737f042bccad4a7e84\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.8.0] C:\Users\luzda\.gradle\caches\transforms-3\5e9d662c2c00a197b09ee17192eb9cc1\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.8.0] C:\Users\luzda\.gradle\caches\transforms-3\5e9d662c2c00a197b09ee17192eb9cc1\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\b1fdc92012020d0d760fc73dd22e4bbe\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\b1fdc92012020d0d760fc73dd22e4bbe\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\03163a59e2b87275ff366201517c6d88\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\03163a59e2b87275ff366201517c6d88\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1f12b346925ae0dccc052cd3dd0b71cd\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1f12b346925ae0dccc052cd3dd0b71cd\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\cd8ecaa2eaedd9ec64442c583f14f074\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\cd8ecaa2eaedd9ec64442c583f14f074\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\512d4a7aae01e90f5c797a9761e6e369\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\512d4a7aae01e90f5c797a9761e6e369\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\e0e437d7ea5fb47d70bbac4b499eeec2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\e0e437d7ea5fb47d70bbac4b499eeec2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\8886eeda50624113142f713d432906ce\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\8886eeda50624113142f713d432906ce\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\9a13e75d858da71b20707708a56cefed\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\9a13e75d858da71b20707708a56cefed\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\b1478d3268cfdf8ed18efd8b05c802f0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\b1478d3268cfdf8ed18efd8b05c802f0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\9b98ce5d7923a9883860b5bde01f298a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\9b98ce5d7923a9883860b5bde01f298a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d686f8de1aab66b7e558628dc1a90b9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d686f8de1aab66b7e558628dc1a90b9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0780c0fc615a7334b3a84338e312822e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0780c0fc615a7334b3a84338e312822e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\9e72763cedc94cb385f1ce8e4a2afb2a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\9e72763cedc94cb385f1ce8e4a2afb2a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\54ae45baa6eb964ce603c168d795f0a9\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\54ae45baa6eb964ce603c168d795f0a9\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\luzda\.gradle\caches\transforms-3\fa12240bf32b116bab2be3fd2087a5f7\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\luzda\.gradle\caches\transforms-3\fa12240bf32b116bab2be3fd2087a5f7\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\56858ab36f93e9b32ae53260c09bd33a\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\56858ab36f93e9b32ae53260c09bd33a\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\85f0d3019ce6686b92851a5db0b0f484\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\85f0d3019ce6686b92851a5db0b0f484\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\89e8f6ad78e4060d583d8a4dfb630e29\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\89e8f6ad78e4060d583d8a4dfb630e29\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\073c1fdccd24ccb775904b3e7562c407\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\073c1fdccd24ccb775904b3e7562c407\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\0069e29226036c7e53d289dd6b7cb333\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\0069e29226036c7e53d289dd6b7cb333\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\21de947a585066699bd15b69edf2786d\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\21de947a585066699bd15b69edf2786d\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\35637c27b9d69e2cbe5ea0e08fed6d92\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\35637c27b9d69e2cbe5ea0e08fed6d92\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a25d4778bdd238569299217859e2c611\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a25d4778bdd238569299217859e2c611\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\44f2e44cbbbd3053723086f6aa1a7560\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\44f2e44cbbbd3053723086f6aa1a7560\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5626bc91db35ebf1e3aceb6f36f4e774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5626bc91db35ebf1e3aceb6f36f4e774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d2034e131b8bae6b9ba530e5c79a500b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d2034e131b8bae6b9ba530e5c79a500b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\583c3d9eeaed8bf280fdc01cd78d45e6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\583c3d9eeaed8bf280fdc01cd78d45e6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\1d166331551c4fd0df57d080d76b38de\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\1d166331551c4fd0df57d080d76b38de\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\luzda\.gradle\caches\transforms-3\fb953d4e36c118eb086d73b35b68b69a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\luzda\.gradle\caches\transforms-3\fb953d4e36c118eb086d73b35b68b69a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a817e83e39df36bfbaf9b5fb2cd56240\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a817e83e39df36bfbaf9b5fb2cd56240\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\c17d96c23a9a75bfc2cbbd51435e2b8c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\c17d96c23a9a75bfc2cbbd51435e2b8c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\6962bae23e2af9a19e63c59df9040255\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\6962bae23e2af9a19e63c59df9040255\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\f8e81ab33e959537b2bc5eb4aef9d92b\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\luzda\.gradle\caches\transforms-3\f8e81ab33e959537b2bc5eb4aef9d92b\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\59fc14e96237f06c6206a7f3305afccb\transformed\firebase-analytics-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\59fc14e96237f06c6206a7f3305afccb\transformed\firebase-analytics-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\50040913ddcf9dd15a3172f4edc3f7ce\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\50040913ddcf9dd15a3172f4edc3f7ce\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\b5a62a6f6ba41cef3329f701d530de5d\transformed\play-services-measurement-sdk-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\b5a62a6f6ba41cef3329f701d530de5d\transformed\play-services-measurement-sdk-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\00b43934fcbbd16d58fc14d2840b4364\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\00b43934fcbbd16d58fc14d2840b4364\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\087eb27edcdf8f8e3e53113421122d69\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\087eb27edcdf8f8e3e53113421122d69\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\411827cb8dbcaf190bbaedcfa83f3b88\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\luzda\.gradle\caches\transforms-3\411827cb8dbcaf190bbaedcfa83f3b88\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\35435b75f8faba8872fef65286422a62\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\35435b75f8faba8872fef65286422a62\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\d6ba048d3d14ad158afdba4f238b90fa\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\luzda\.gradle\caches\transforms-3\d6ba048d3d14ad158afdba4f238b90fa\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\c69fd40114f8e1c6e3d2a6e4d05b93a8\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\c69fd40114f8e1c6e3d2a6e4d05b93a8\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\949c3a35b59b8cca2a11fdd9f3c7107b\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\949c3a35b59b8cca2a11fdd9f3c7107b\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\45587b62e87bc9633eb38fc1c8cc216c\transformed\play-services-measurement-base-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\45587b62e87bc9633eb38fc1c8cc216c\transformed\play-services-measurement-base-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\luzda\.gradle\caches\transforms-3\ea00c92a0645fa33aa24b36cdf89907b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\luzda\.gradle\caches\transforms-3\ea00c92a0645fa33aa24b36cdf89907b\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\luzda\.gradle\caches\transforms-3\fdf690bbb001690a297561a8a1bcdef2\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\luzda\.gradle\caches\transforms-3\fdf690bbb001690a297561a8a1bcdef2\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\luzda\.gradle\caches\transforms-3\8fa296379c0e1085d65d6421cd7949ce\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\luzda\.gradle\caches\transforms-3\8fa296379c0e1085d65d6421cd7949ce\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\luzda\.gradle\caches\transforms-3\4238b7ab7a1459ee502953fc57f0a9bd\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\luzda\.gradle\caches\transforms-3\4238b7ab7a1459ee502953fc57f0a9bd\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c61672a11a9031abead460f9507aa7b3\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c61672a11a9031abead460f9507aa7b3\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\luzda\.gradle\caches\transforms-3\b940792072ff92b56e68498bfebd6940\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\luzda\.gradle\caches\transforms-3\b940792072ff92b56e68498bfebd6940\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\luzda\.gradle\caches\transforms-3\26d4b27e0519f987038927979fb83fa4\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\luzda\.gradle\caches\transforms-3\26d4b27e0519f987038927979fb83fa4\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\7779691a17b00d8290447c16e79ec9ee\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\7779691a17b00d8290447c16e79ec9ee\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\44ae3b836f9626803b6220f6d98c3c57\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\44ae3b836f9626803b6220f6d98c3c57\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\3ff79c16f2d4c18dbe4e44a8aa99380c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\3ff79c16f2d4c18dbe4e44a8aa99380c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\f57fe3db434981f05713fc0e40dc90a1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\f57fe3db434981f05713fc0e40dc90a1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\7632cd219ec8067df96c480743eea359\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\7632cd219ec8067df96c480743eea359\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\119365569b971ade9b11e1776c9cb682\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\119365569b971ade9b11e1776c9cb682\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\c6268c6fe6bc85cdadaab80ccba2ac49\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\c6268c6fe6bc85cdadaab80ccba2ac49\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\e4ae1965c606878e098c9e9f05098f29\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\e4ae1965c606878e098c9e9f05098f29\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d0c6cc6dd28a182f61ca8947574b0e47\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d0c6cc6dd28a182f61ca8947574b0e47\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d7c9f4fd6a62b37b570b05b23c3bd777\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d7c9f4fd6a62b37b570b05b23c3bd777\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\fc59e3cbe8f2668880395da9f8b8297f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\fc59e3cbe8f2668880395da9f8b8297f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\c119d6a77422b523a91cac9501bfc868\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\c119d6a77422b523a91cac9501bfc868\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\2548eb1a1c853f0d7abb364f01e1f17b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\luzda\.gradle\caches\transforms-3\2548eb1a1c853f0d7abb364f01e1f17b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\luzda\.gradle\caches\transforms-3\75503b12eed7f0de3755f5081faf5b1e\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\luzda\.gradle\caches\transforms-3\75503b12eed7f0de3755f5081faf5b1e\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\e94e47a10ed4d1bacbe9312562477de7\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\e94e47a10ed4d1bacbe9312562477de7\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\34d9b32ee0bc589f7a7d0d4fec6ad224\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\34d9b32ee0bc589f7a7d0d4fec6ad224\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\994c19a72d6edfc79034a88057479d69\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\994c19a72d6edfc79034a88057479d69\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\dde67b0cb7d3d7fa793071db9ca0a911\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\dde67b0cb7d3d7fa793071db9ca0a911\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\b69d2dfa40cdddb082ce4194bd0942d4\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\b69d2dfa40cdddb082ce4194bd0942d4\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\0e53e83c1819f106e5d9e240730ce679\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\0e53e83c1819f106e5d9e240730ce679\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c9ae9be2501ed7cc6dcb5ff8308b5603\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c9ae9be2501ed7cc6dcb5ff8308b5603\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\710aa7908e57243034f20b13c8f43f7a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\710aa7908e57243034f20b13c8f43f7a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\faafb2ba2402ddd96bcf3da1f29d1434\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\faafb2ba2402ddd96bcf3da1f29d1434\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5ed69a51017f9f878f0e935eb58b4e1b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5ed69a51017f9f878f0e935eb58b4e1b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10e40642d2cac858cc9395b99d16267b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10e40642d2cac858cc9395b99d16267b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\b93bfe96cdb1f64219b85aefdf1d281b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\b93bfe96cdb1f64219b85aefdf1d281b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\09731587ba973b28a0c21d59aa871ca3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\09731587ba973b28a0c21d59aa871ca3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1b17c09a42322a31ae336611ef1f21a5\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1b17c09a42322a31ae336611ef1f21a5\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\869faaf9efdb403ecdb9127d1caef0ee\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\869faaf9efdb403ecdb9127d1caef0ee\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\4637dc83d6893433757de82dc08f19a1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\4637dc83d6893433757de82dc08f19a1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d372d4e8f3b347252557898bb2027259\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d372d4e8f3b347252557898bb2027259\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\72d4a5f736aa41ce76f0c6936c473cd6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\luzda\.gradle\caches\transforms-3\72d4a5f736aa41ce76f0c6936c473cd6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
 		INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml
-provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1f12b346925ae0dccc052cd3dd0b71cd\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\85f0d3019ce6686b92851a5db0b0f484\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\85f0d3019ce6686b92851a5db0b0f484\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5626bc91db35ebf1e3aceb6f36f4e774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5626bc91db35ebf1e3aceb6f36f4e774\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1f12b346925ae0dccc052cd3dd0b71cd\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
-	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1f12b346925ae0dccc052cd3dd0b71cd\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\949c3a35b59b8cca2a11fdd9f3c7107b\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\949c3a35b59b8cca2a11fdd9f3c7107b\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\8ceeaf3c627451242005b21e192c2737\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:27:22-79
+property#android.adservices.AD_SERVICES_CONFIG
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:31:13-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\50040913ddcf9dd15a3172f4edc3f7ce\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\50040913ddcf9dd15a3172f4edc3f7ce\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1f12b346925ae0dccc052cd3dd0b71cd\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1f12b346925ae0dccc052cd3dd0b71cd\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1f12b346925ae0dccc052cd3dd0b71cd\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1f12b346925ae0dccc052cd3dd0b71cd\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\1f12b346925ae0dccc052cd3dd0b71cd\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
-	android:name
-		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
-permission#com.example.uancinema_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
-	android:name
-		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
-uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
-uses-permission#com.example.uancinema_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\97f5a44a26b406e0b8a2bc20f1650830\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
-meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\85f0d3019ce6686b92851a5db0b0f484\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\85f0d3019ce6686b92851a5db0b0f484\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\85f0d3019ce6686b92851a5db0b0f484\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
-meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
-receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:36:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:35:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\50040913ddcf9dd15a3172f4edc3f7ce\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\50040913ddcf9dd15a3172f4edc3f7ce\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\50040913ddcf9dd15a3172f4edc3f7ce\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a2121a3da9716d969c3bac046f54b941\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:40:13-87
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\087eb27edcdf8f8e3e53113421122d69\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\087eb27edcdf8f8e3e53113421122d69\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\087eb27edcdf8f8e3e53113421122d69\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c61672a11a9031abead460f9507aa7b3\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c61672a11a9031abead460f9507aa7b3\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c61672a11a9031abead460f9507aa7b3\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\34d9b32ee0bc589f7a7d0d4fec6ad224\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\34d9b32ee0bc589f7a7d0d4fec6ad224\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5ed69a51017f9f878f0e935eb58b4e1b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\luzda\.gradle\caches\transforms-3\5ed69a51017f9f878f0e935eb58b4e1b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.example.uancinema_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.uancinema_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\34d9b32ee0bc589f7a7d0d4fec6ad224\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\34d9b32ee0bc589f7a7d0d4fec6ad224\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\34d9b32ee0bc589f7a7d0d4fec6ad224\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\0a1c478fb24ed85ca546b541adb89d8b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
