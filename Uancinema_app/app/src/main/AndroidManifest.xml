@@ -13,6 +13,21 @@
         android:theme="@style/Theme.Uancinema_app"
         tools:targetApi="31">
         <activity
+            android:name=".DescargasActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".IronMan1Activity2"
+            android:exported="false" />
+        <activity
+            android:name=".IronMann2Activity2"
+            android:exported="false" />
+        <activity
+            android:name=".IronMan2Activity2"
+            android:exported="false" />
+        <activity
+            android:name=".IronMan3Activity2"
+            android:exported="false" />
+        <activity
             android:name=".MiListaActivity2"
             android:exported="false" />
         <activity
