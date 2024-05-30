@@ -20,4 +20,8 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(this, RegistroActivity::class.java).apply { }
         startActivity(intent)
     }
+    fun openPrimeraPantalla(view: View) {
+        val intent = Intent(this, PrimeraPantallaActivity::class.java).apply { }
+        startActivity(intent)
+    }
 }

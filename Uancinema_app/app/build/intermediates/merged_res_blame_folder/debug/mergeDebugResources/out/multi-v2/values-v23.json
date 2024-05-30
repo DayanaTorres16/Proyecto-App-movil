@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.uancinema_app-mergeDebugResources-35:/values-v23/values-v23.xml",
+            "outputFile": "com.example.uancinema_app-mergeDebugResources-34:/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\faafb2ba2402ddd96bcf3da1f29d1434\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",

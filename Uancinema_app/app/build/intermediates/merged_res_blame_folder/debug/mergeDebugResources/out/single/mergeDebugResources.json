@@ -1,350 +1,350 @@
 [
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_fragment_cuarto.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/fragment_cuarto.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_antless.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/antless.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.uancinema_app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.example.uancinema_app-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uancinema_app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_ironman3.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/ironman3.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_host.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/host.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_doctor.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/doctor.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_primera_pantalla.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_primera_pantalla.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_rata.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/rata.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.uancinema_app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_marvel.jpeg.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/marvel.jpeg"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.uancinema_app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_doctor.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/doctor.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_los100.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/los100.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_main.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_main.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_visualizacion_peliculas.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_visualizacion_peliculas.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_avatar_estrella.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_avatar_estrella.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_you.jpeg.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/you.jpeg"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_fondodos.jpeg.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/fondodos.jpeg"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_bb.jpeg.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/bb.jpeg"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_pelicula_endgame.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_pelicula_endgame.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_scarlett.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/scarlett.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_chrish.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/chrish.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_usuario.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/usuario.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_scarlett.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/scarlett.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_ironman3.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/ironman3.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_los100.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/los100.png"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_avatar_estrella.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_avatar_estrella.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_visualizacion_peliculas.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_visualizacion_peliculas.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_avatar_descargar.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_avatar_descargar.xml"
+        "merged": "com.example.uancinema_app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_millers_descargar.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_millers_descargar.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_ironman.jpeg.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/ironman.jpeg"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_ratatouille_estrella.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_ratatouille_estrella.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_anabelle_descargar.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_anabelle_descargar.xml"
+        "merged": "com.example.uancinema_app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.uancinema_app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.uancinema_app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_fondo.jpeg.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/fondo.jpeg"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_login.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_login.xml"
+        "merged": "com.example.uancinema_app-debug-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_ironman.jpeg.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/ironman.jpeg"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_captura_de_pantalla_2024_04_05_015304.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/captura_de_pantalla_2024_04_05_015304.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_ratatouille_estrella.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_ratatouille_estrella.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_pelicula_anabelle.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_pelicula_anabelle.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_stranger.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/stranger.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_casaterror.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/casaterror.png"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_ratatouille_descarga.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_ratatouille_descarga.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_ratatouille_descarga.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_ratatouille_descarga.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_millers_estrella.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_millers_estrella.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_bridgerton.jpeg.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/bridgerton.jpeg"
+        "merged": "com.example.uancinema_app-debug-36:/layout_fragment_quinto.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/fragment_quinto.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_captura_de_pantalla_2024_04_05_015304.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/captura_de_pantalla_2024_04_05_015304.png"
+        "merged": "com.example.uancinema_app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.uancinema_app-main-38:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_you.jpeg.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/you.jpeg"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_chrish.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/chrish.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_busquedad_peliculas.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_busquedad_peliculas.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_fragment_cuarto.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/fragment_cuarto.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_doctor_descargar.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_doctor_descargar.xml"
+        "merged": "com.example.uancinema_app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.uancinema_app-main-38:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_fragment_sexto.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/fragment_sexto.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_anabelle.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/anabelle.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_millers.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/millers.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_descarga.jpeg.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/descarga.jpeg"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_avatar.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/avatar.png"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_pelicula_avatar.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_pelicula_avatar.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_malefica_descargar.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_malefica_descargar.xml"
+        "merged": "com.example.uancinema_app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_euphoria.jpeg.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/euphoria.jpeg"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_pelicula_malefica.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_pelicula_malefica.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_pelicula_anabelle.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_pelicula_anabelle.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_ironmam.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/ironmam.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_doctor_estrella.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_doctor_estrella.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_casaterror.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/casaterror.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_pelicula_endgame.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_pelicula_endgame.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_fragment_primer.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/fragment_primer.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_pelicula_millers_girl.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_pelicula_millers_girl.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_ironmam.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/ironmam.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_ironman2.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/ironman2.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_bb.jpeg.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/bb.jpeg"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_chrise.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/chrise.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_rata.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/rata.png"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_avatar_descargar.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_avatar_descargar.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_usuario.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/usuario.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_malefica.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/malefica.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_pelicula_malefica.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_pelicula_malefica.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_engame_estrella.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_engame_estrella.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_millers_estrella.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_millers_estrella.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_fragment_tercer.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/fragment_tercer.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_malefica.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/malefica.png"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_pelicula_ratatoulle.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_pelicula_ratatoulle.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_antless.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/antless.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_millers.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/millers.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_pelicula_avatar.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_pelicula_avatar.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_gg.jpeg.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/gg.jpeg"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_ironman1.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/ironman1.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_fondodos.jpeg.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/fondodos.jpeg"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_fondo.jpeg.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/fondo.jpeg"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_reason.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/reason.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_fragment_quinto.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/fragment_quinto.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_doctor_descargar.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_doctor_descargar.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_registro.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_registro.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_boton_uan.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/boton_uan.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_stranger.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/stranger.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_euphoria.jpeg.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/euphoria.jpeg"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.uancinema_app-main-39:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_bridgerton.jpeg.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/bridgerton.jpeg"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_pelicula_doctor_stranger.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_pelicula_doctor_stranger.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_doctor_estrella.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_doctor_estrella.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.uancinema_app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.example.uancinema_app-debug-36:/layout_fragment_segundo.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/fragment_segundo.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_fragment_tercer.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/fragment_tercer.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_anabelle_estrella.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_anabelle_estrella.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_reason.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/reason.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_robert.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/robert.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.uancinema_app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.example.uancinema_app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.uancinema_app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_pelicula_ratatoulle.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_pelicula_ratatoulle.xml"
+        "merged": "com.example.uancinema_app-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uancinema_app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_endgame.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/endgame.png"
+        "merged": "com.example.uancinema_app-debug-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_logo.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/logo.png"
+        "merged": "com.example.uancinema_app-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uancinema_app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.uancinema_app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_anabelle_descargar.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_anabelle_descargar.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_boton_uan.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/boton_uan.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_avatar.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/avatar.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_robert.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/robert.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_anne.jpeg.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/anne.jpeg"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_marvel.jpeg.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/marvel.jpeg"
+        "merged": "com.example.uancinema_app-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uancinema_app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_descarga.jpeg.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/descarga.jpeg"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_malefica_estrella.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_malefica_estrella.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_engame_estrella.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_engame_estrella.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_informacion_pelicula_ironman.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_informacion_pelicula_ironman.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_chrise.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/chrise.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_ironman1.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/ironman1.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_anabelle_estrella.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_anabelle_estrella.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_login.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_login.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/xml/data_extraction_rules.xml"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_ironmannn.jpeg.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/ironmannn.jpeg"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_endgame_descargar.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_endgame_descargar.xml"
+        "merged": "com.example.uancinema_app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.uancinema_app-main-38:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/xml_backup_rules.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/xml/backup_rules.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_pelicula_doctor_stranger.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_pelicula_doctor_stranger.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_ironman2.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/ironman2.png"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_logo.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/logo.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_fragment_segundo.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/fragment_segundo.xml"
+        "merged": "com.example.uancinema_app-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uancinema_app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_gg.jpeg.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/gg.jpeg"
+        "merged": "com.example.uancinema_app-debug-36:/drawable_endgame.png.flat",
+        "source": "com.example.uancinema_app-main-38:/drawable/endgame.png"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_malefica_estrella.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_malefica_estrella.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_primera_pantalla.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_primera_pantalla.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_anabelle.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/anabelle.png"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_millers_descargar.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_millers_descargar.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_host.png.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/host.png"
+        "merged": "com.example.uancinema_app-debug-36:/layout_fragment_sexto.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/fragment_sexto.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.uancinema_app-main-39:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_malefica_descargar.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_malefica_descargar.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_ironmannn.jpeg.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/ironmannn.jpeg"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_registro.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_registro.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_pelicula_millers_girl.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_pelicula_millers_girl.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_endgame_descargar.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_endgame_descargar.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/drawable_anne.jpeg.flat",
-        "source": "com.example.uancinema_app-main-39:/drawable/anne.jpeg"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_busquedad_peliculas.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_busquedad_peliculas.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.uancinema_app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.uancinema_app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.uancinema_app-debug-37:/layout_activity_informacion_pelicula_ironman.xml.flat",
-        "source": "com.example.uancinema_app-main-39:/layout/activity_informacion_pelicula_ironman.xml"
+        "merged": "com.example.uancinema_app-debug-36:/layout_fragment_primer.xml.flat",
+        "source": "com.example.uancinema_app-main-38:/layout/fragment_primer.xml"
     }
 ]

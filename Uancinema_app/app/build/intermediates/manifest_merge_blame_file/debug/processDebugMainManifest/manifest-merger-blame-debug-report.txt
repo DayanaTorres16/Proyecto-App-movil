@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:22:5-67
-11-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:22:22-64
+11-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 12-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:23:5-79
 12-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:23:22-76
@@ -42,553 +42,553 @@
 23-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
 24
 25    <application
-25-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-294:19
+25-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:7:5-296:19
 26        android:allowBackup="true"
-26-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:6:9-35
+26-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:8:9-35
 27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 27-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
 28        android:dataExtractionRules="@xml/data_extraction_rules"
-28-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:7:9-65
+28-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:9:9-65
 29        android:debuggable="true"
 30        android:extractNativeLibs="false"
 31        android:fullBackupContent="@xml/backup_rules"
-31-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:8:9-54
+31-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:10:9-54
 32        android:icon="@mipmap/ic_launcher"
-32-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:9:9-43
+32-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:11:9-43
 33        android:label="@string/app_name"
-33-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:10:9-41
+33-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:12:9-41
 34        android:roundIcon="@mipmap/ic_launcher_round"
-34-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:11:9-54
+34-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:13:9-54
 35        android:supportsRtl="true"
-35-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:12:9-35
+35-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:14:9-35
 36        android:testOnly="true"
 37        android:theme="@style/Theme.Uancinema_app" >
-37-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:13:9-51
+37-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:15:9-51
 38        <activity
-38-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:15:9-23:20
+38-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:17:9-25:20
 39            android:name="com.example.uancinema_app.MainActivity"
-39-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:16:13-41
+39-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-41
 40            android:exported="true" >
-40-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:17:13-36
+40-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:13-36
 41            <intent-filter>
-41-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+41-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 42                <action android:name="android.intent.action.MAIN" />
-42-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-42-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+42-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+42-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 43
 44                <category android:name="android.intent.category.LAUNCHER" />
-44-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-44-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+44-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+44-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 45            </intent-filter>
 46        </activity>
 47        <activity
-47-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:24:9-32:20
+47-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:26:9-34:20
 48            android:name="com.example.uancinema_app.LoginActivity"
-48-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:25:13-42
+48-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:27:13-42
 49            android:exported="true" >
-49-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:26:13-36
+49-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:28:13-36
 50            <intent-filter>
-50-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+50-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 51                <action android:name="android.intent.action.MAIN" />
-51-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-51-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+51-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+51-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 52
 53                <category android:name="android.intent.category.LAUNCHER" />
-53-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-53-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+53-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+53-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 54            </intent-filter>
 55        </activity>
 56        <activity
-56-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:33:9-41:20
+56-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:35:9-43:20
 57            android:name="com.example.uancinema_app.RegistroActivity"
-57-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:34:13-45
+57-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:36:13-45
 58            android:exported="true" >
-58-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:35:13-36
+58-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:37:13-36
 59            <intent-filter>
-59-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+59-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 60                <action android:name="android.intent.action.MAIN" />
-60-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-60-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+60-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+60-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 61
 62                <category android:name="android.intent.category.LAUNCHER" />
-62-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-62-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+62-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+62-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 63            </intent-filter>
 64        </activity>
 65        <activity
-65-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:42:9-50:20
+65-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:44:9-52:20
 66            android:name="com.example.uancinema_app.PrimeraPantallaActivity"
-66-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:43:13-52
+66-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:45:13-52
 67            android:exported="true" >
-67-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:44:13-36
+67-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:46:13-36
 68            <intent-filter>
-68-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+68-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 69                <action android:name="android.intent.action.MAIN" />
-69-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-69-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+69-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+69-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 70
 71                <category android:name="android.intent.category.LAUNCHER" />
-71-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-71-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+71-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+71-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 72            </intent-filter>
 73        </activity>
 74        <activity
-74-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:51:9-59:20
+74-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:53:9-61:20
 75            android:name="com.example.uancinema_app.CuartoFragment"
-75-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:52:13-43
+75-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:54:13-43
 76            android:exported="true" >
-76-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:53:13-36
+76-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:55:13-36
 77            <intent-filter>
-77-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+77-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 78                <action android:name="android.intent.action.MAIN" />
-78-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-78-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+78-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+78-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 79
 80                <category android:name="android.intent.category.LAUNCHER" />
-80-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-80-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+80-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+80-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 81            </intent-filter>
 82        </activity>
 83        <activity
-83-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:60:9-68:20
+83-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:62:9-70:20
 84            android:name="com.example.uancinema_app.VisualizacionActivity"
-84-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:61:13-50
+84-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:63:13-50
 85            android:exported="true" >
-85-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:62:13-36
+85-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:64:13-36
 86            <intent-filter>
-86-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+86-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 87                <action android:name="android.intent.action.MAIN" />
-87-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-87-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+87-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+87-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 88
 89                <category android:name="android.intent.category.LAUNCHER" />
-89-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-89-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+89-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+89-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 90            </intent-filter>
 91        </activity>
 92        <activity
-92-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:69:9-77:20
+92-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:71:9-79:20
 93            android:name="com.example.uancinema_app.PeliculaEndGameActivity"
-93-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:70:13-52
+93-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:72:13-52
 94            android:exported="true" >
-94-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:71:13-36
+94-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:73:13-36
 95            <intent-filter>
-95-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+95-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 96                <action android:name="android.intent.action.MAIN" />
-96-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-96-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+96-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+96-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 97
 98                <category android:name="android.intent.category.LAUNCHER" />
-98-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-98-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+98-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+98-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 99            </intent-filter>
 100        </activity>
 101        <activity
-101-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:78:9-86:20
+101-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:80:9-88:20
 102            android:name="com.example.uancinema_app.DescargarEndgameActivity"
-102-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:79:13-53
+102-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:81:13-53
 103            android:exported="true" >
-103-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:80:13-36
+103-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:82:13-36
 104            <intent-filter>
-104-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+104-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 105                <action android:name="android.intent.action.MAIN" />
-105-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-105-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+105-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+105-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 106
 107                <category android:name="android.intent.category.LAUNCHER" />
-107-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-107-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+107-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+107-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 108            </intent-filter>
 109        </activity>
 110        <activity
-110-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:87:9-95:20
+110-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:89:9-97:20
 111            android:name="com.example.uancinema_app.EstrellaEndgameActivity"
-111-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:88:13-52
+111-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:90:13-52
 112            android:exported="true" >
-112-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:89:13-36
+112-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:91:13-36
 113            <intent-filter>
-113-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+113-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 114                <action android:name="android.intent.action.MAIN" />
-114-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-114-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+114-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+114-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 115
 116                <category android:name="android.intent.category.LAUNCHER" />
-116-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-116-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+116-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+116-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 117            </intent-filter>
 118        </activity>
 119        <activity
-119-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:96:9-104:20
+119-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:98:9-106:20
 120            android:name="com.example.uancinema_app.PeliculaDoctorStrangerActivity"
-120-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:97:13-59
+120-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:99:13-59
 121            android:exported="true" >
-121-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:98:13-36
+121-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:100:13-36
 122            <intent-filter>
-122-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+122-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 123                <action android:name="android.intent.action.MAIN" />
-123-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-123-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+123-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+123-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 124
 125                <category android:name="android.intent.category.LAUNCHER" />
-125-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-125-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+125-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+125-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 126            </intent-filter>
 127        </activity>
 128        <activity
-128-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:105:9-113:20
+128-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:107:9-115:20
 129            android:name="com.example.uancinema_app.DescargarDoctorActivity"
-129-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:106:13-52
+129-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:108:13-52
 130            android:exported="true" >
-130-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:107:13-36
+130-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:109:13-36
 131            <intent-filter>
-131-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+131-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 132                <action android:name="android.intent.action.MAIN" />
-132-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-132-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+132-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+132-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 133
 134                <category android:name="android.intent.category.LAUNCHER" />
-134-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-134-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+134-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+134-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 135            </intent-filter>
 136        </activity>
 137        <activity
-137-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:114:9-122:20
+137-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:116:9-124:20
 138            android:name="com.example.uancinema_app.EstrellaDoctorActivity"
-138-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:115:13-51
+138-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:117:13-51
 139            android:exported="true" >
-139-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:116:13-36
+139-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:118:13-36
 140            <intent-filter>
-140-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+140-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 141                <action android:name="android.intent.action.MAIN" />
-141-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-141-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+141-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+141-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 142
 143                <category android:name="android.intent.category.LAUNCHER" />
-143-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-143-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+143-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+143-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 144            </intent-filter>
 145        </activity>
 146        <activity
-146-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:123:9-131:20
+146-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:125:9-133:20
 147            android:name="com.example.uancinema_app.PeliculaMillersActivity"
-147-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:124:13-52
+147-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:126:13-52
 148            android:exported="true" >
-148-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:125:13-36
+148-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:127:13-36
 149            <intent-filter>
-149-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+149-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 150                <action android:name="android.intent.action.MAIN" />
-150-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-150-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+150-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+150-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 151
 152                <category android:name="android.intent.category.LAUNCHER" />
-152-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-152-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+152-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+152-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 153            </intent-filter>
 154        </activity>
 155        <activity
-155-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:132:9-140:20
+155-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:134:9-142:20
 156            android:name="com.example.uancinema_app.DescargarMillersActivity"
-156-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:133:13-53
+156-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:135:13-53
 157            android:exported="true" >
-157-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:134:13-36
+157-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:136:13-36
 158            <intent-filter>
-158-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+158-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 159                <action android:name="android.intent.action.MAIN" />
-159-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-159-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+159-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+159-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 160
 161                <category android:name="android.intent.category.LAUNCHER" />
-161-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-161-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+161-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+161-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 162            </intent-filter>
 163        </activity>
 164        <activity
-164-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:141:9-149:20
+164-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:143:9-151:20
 165            android:name="com.example.uancinema_app.EstrellaMillersActivity"
-165-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:142:13-52
+165-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:144:13-52
 166            android:exported="true" >
-166-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:143:13-36
+166-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:145:13-36
 167            <intent-filter>
-167-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+167-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 168                <action android:name="android.intent.action.MAIN" />
-168-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-168-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+168-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+168-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 169
 170                <category android:name="android.intent.category.LAUNCHER" />
-170-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-170-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+170-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+170-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 171            </intent-filter>
 172        </activity>
 173        <activity
-173-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:150:9-158:20
+173-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:152:9-160:20
 174            android:name="com.example.uancinema_app.PeliculaAnabelleActivity"
-174-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:151:13-53
+174-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:153:13-53
 175            android:exported="true" >
-175-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:152:13-36
+175-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:154:13-36
 176            <intent-filter>
-176-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+176-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 177                <action android:name="android.intent.action.MAIN" />
-177-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-177-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+177-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+177-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 178
 179                <category android:name="android.intent.category.LAUNCHER" />
-179-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-179-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+179-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+179-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 180            </intent-filter>
 181        </activity>
 182        <activity
-182-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:159:9-167:20
+182-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:161:9-169:20
 183            android:name="com.example.uancinema_app.DescargarAnabelleActivity"
-183-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:160:13-54
+183-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:162:13-54
 184            android:exported="true" >
-184-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:161:13-36
+184-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:163:13-36
 185            <intent-filter>
-185-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+185-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 186                <action android:name="android.intent.action.MAIN" />
-186-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-186-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+186-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+186-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 187
 188                <category android:name="android.intent.category.LAUNCHER" />
-188-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-188-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+188-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+188-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 189            </intent-filter>
 190        </activity>
 191        <activity
-191-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:168:9-176:20
+191-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:170:9-178:20
 192            android:name="com.example.uancinema_app.EstrellaAnabelleActivity"
-192-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:169:13-53
+192-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:171:13-53
 193            android:exported="true" >
-193-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:170:13-36
+193-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:172:13-36
 194            <intent-filter>
-194-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+194-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 195                <action android:name="android.intent.action.MAIN" />
-195-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-195-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+195-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+195-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 196
 197                <category android:name="android.intent.category.LAUNCHER" />
-197-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-197-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+197-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+197-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 198            </intent-filter>
 199        </activity>
 200        <activity
-200-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:177:9-185:20
+200-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:179:9-187:20
 201            android:name="com.example.uancinema_app.PeliculaRatatouilleActivity"
-201-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:178:13-56
+201-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:180:13-56
 202            android:exported="true" >
-202-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:179:13-36
+202-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:181:13-36
 203            <intent-filter>
-203-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+203-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 204                <action android:name="android.intent.action.MAIN" />
-204-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-204-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+204-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+204-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 205
 206                <category android:name="android.intent.category.LAUNCHER" />
-206-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-206-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+206-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+206-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 207            </intent-filter>
 208        </activity>
 209        <activity
-209-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:186:9-194:20
+209-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:188:9-196:20
 210            android:name="com.example.uancinema_app.DescargaRatatouilleActivity"
-210-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:187:13-56
+210-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:189:13-56
 211            android:exported="true" >
-211-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:188:13-36
+211-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:190:13-36
 212            <intent-filter>
-212-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+212-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 213                <action android:name="android.intent.action.MAIN" />
-213-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-213-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+213-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+213-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 214
 215                <category android:name="android.intent.category.LAUNCHER" />
-215-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-215-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+215-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+215-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 216            </intent-filter>
 217        </activity>
 218        <activity
-218-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:195:9-203:20
+218-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:197:9-205:20
 219            android:name="com.example.uancinema_app.EstrellaRatatouilleActivity"
-219-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:196:13-56
+219-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:198:13-56
 220            android:exported="true" >
-220-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:197:13-36
+220-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:199:13-36
 221            <intent-filter>
-221-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+221-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 222                <action android:name="android.intent.action.MAIN" />
-222-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-222-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+222-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+222-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 223
 224                <category android:name="android.intent.category.LAUNCHER" />
-224-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-224-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+224-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+224-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 225            </intent-filter>
 226        </activity>
 227        <activity
-227-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:204:9-212:20
+227-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:206:9-214:20
 228            android:name="com.example.uancinema_app.PeliculaMaleficaActivity"
-228-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:205:13-53
+228-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:207:13-53
 229            android:exported="true" >
-229-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:206:13-36
+229-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:208:13-36
 230            <intent-filter>
-230-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+230-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 231                <action android:name="android.intent.action.MAIN" />
-231-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-231-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+231-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+231-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 232
 233                <category android:name="android.intent.category.LAUNCHER" />
-233-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-233-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+233-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+233-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 234            </intent-filter>
 235        </activity>
 236        <activity
-236-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:213:9-221:20
+236-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:215:9-223:20
 237            android:name="com.example.uancinema_app.DescargarMaleficaActivity"
-237-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:214:13-54
+237-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:216:13-54
 238            android:exported="true" >
-238-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:215:13-36
+238-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:217:13-36
 239            <intent-filter>
-239-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+239-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 240                <action android:name="android.intent.action.MAIN" />
-240-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-240-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+240-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+240-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 241
 242                <category android:name="android.intent.category.LAUNCHER" />
-242-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-242-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+242-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+242-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 243            </intent-filter>
 244        </activity>
 245        <activity
-245-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:222:9-230:20
+245-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:224:9-232:20
 246            android:name="com.example.uancinema_app.EstrellaMaleficaActivity"
-246-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:223:13-53
+246-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:225:13-53
 247            android:exported="true" >
-247-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:224:13-36
+247-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:226:13-36
 248            <intent-filter>
-248-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+248-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 249                <action android:name="android.intent.action.MAIN" />
-249-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-249-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+249-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+249-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 250
 251                <category android:name="android.intent.category.LAUNCHER" />
-251-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-251-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+251-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+251-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 252            </intent-filter>
 253        </activity>
 254        <activity
-254-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:231:9-239:20
+254-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:233:9-241:20
 255            android:name="com.example.uancinema_app.PeliculaAvatarActivity"
-255-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:232:13-51
+255-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:234:13-51
 256            android:exported="true" >
-256-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:233:13-36
+256-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:235:13-36
 257            <intent-filter>
-257-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+257-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 258                <action android:name="android.intent.action.MAIN" />
-258-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-258-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+258-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+258-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 259
 260                <category android:name="android.intent.category.LAUNCHER" />
-260-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-260-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+260-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+260-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 261            </intent-filter>
 262        </activity>
 263        <activity
-263-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:240:9-248:20
+263-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:242:9-250:20
 264            android:name="com.example.uancinema_app.DescargarAvatarActivity"
-264-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:241:13-52
+264-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:243:13-52
 265            android:exported="true" >
-265-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:242:13-36
+265-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:244:13-36
 266            <intent-filter>
-266-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+266-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 267                <action android:name="android.intent.action.MAIN" />
-267-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-267-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+267-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+267-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 268
 269                <category android:name="android.intent.category.LAUNCHER" />
-269-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-269-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+269-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+269-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 270            </intent-filter>
 271        </activity>
 272        <activity
-272-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:249:9-257:20
+272-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:251:9-259:20
 273            android:name="com.example.uancinema_app.EstrellaAvatarActivity"
-273-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:250:13-51
+273-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:252:13-51
 274            android:exported="true" >
-274-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:251:13-36
+274-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:253:13-36
 275            <intent-filter>
-275-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+275-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 276                <action android:name="android.intent.action.MAIN" />
-276-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-276-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+276-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+276-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 277
 278                <category android:name="android.intent.category.LAUNCHER" />
-278-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-278-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+278-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+278-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 279            </intent-filter>
 280        </activity>
 281        <activity
-281-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:258:9-266:20
+281-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:260:9-268:20
 282            android:name="com.example.uancinema_app.PeliculasBusquedadActivity"
-282-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:259:13-55
+282-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:261:13-55
 283            android:exported="true" >
-283-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:260:13-36
+283-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:262:13-36
 284            <intent-filter>
-284-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+284-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 285                <action android:name="android.intent.action.MAIN" />
-285-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-285-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+285-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+285-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 286
 287                <category android:name="android.intent.category.LAUNCHER" />
-287-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-287-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+287-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+287-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 288            </intent-filter>
 289        </activity>
 290        <activity
-290-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:267:9-275:20
+290-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:269:9-277:20
 291            android:name="com.example.uancinema_app.PrimerFragment"
-291-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:268:13-43
+291-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:270:13-43
 292            android:exported="true" >
-292-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:269:13-36
+292-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:271:13-36
 293            <intent-filter>
-293-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+293-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 294                <action android:name="android.intent.action.MAIN" />
-294-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-294-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+294-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+294-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 295
 296                <category android:name="android.intent.category.LAUNCHER" />
-296-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-296-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+296-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+296-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 297            </intent-filter>
 298        </activity>
 299        <activity
-299-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:276:9-284:20
+299-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:278:9-286:20
 300            android:name="com.example.uancinema_app.SegundoFragment"
-300-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:277:13-44
+300-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:279:13-44
 301            android:exported="true" >
-301-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:278:13-36
+301-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:280:13-36
 302            <intent-filter>
-302-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+302-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 303                <action android:name="android.intent.action.MAIN" />
-303-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-303-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+303-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+303-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 304
 305                <category android:name="android.intent.category.LAUNCHER" />
-305-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-305-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+305-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+305-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 306            </intent-filter>
 307        </activity>
 308        <activity
-308-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:285:9-293:20
+308-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:287:9-295:20
 309            android:name="com.example.uancinema_app.TercerFragment"
-309-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:286:13-43
+309-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:288:13-43
 310            android:exported="true" >
-310-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:287:13-36
+310-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:289:13-36
 311            <intent-filter>
-311-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
+311-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
 312                <action android:name="android.intent.action.MAIN" />
-312-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-312-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
+312-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+312-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
 313
 314                <category android:name="android.intent.category.LAUNCHER" />
-314-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-314-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
+314-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+314-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
 315            </intent-filter>
 316        </activity>
 317

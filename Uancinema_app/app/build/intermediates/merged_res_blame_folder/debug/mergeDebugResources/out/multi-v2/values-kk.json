@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.uancinema_app-mergeDebugResources-35:/values-kk/values-kk.xml",
+            "outputFile": "com.example.uancinema_app-mergeDebugResources-34:/values-kk/values-kk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\f8e81ab33e959537b2bc5eb4aef9d92b\\transformed\\material-1.10.0\\res\\values-kk\\values-kk.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.uancinema_app-mergeDebugResources-35:/values-vi/values-vi.xml",
+            "outputFile": "com.example.uancinema_app-mergeDebugResources-34:/values-vi/values-vi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\c61672a11a9031abead460f9507aa7b3\\transformed\\play-services-basement-18.3.0\\res\\values-vi\\values.xml",

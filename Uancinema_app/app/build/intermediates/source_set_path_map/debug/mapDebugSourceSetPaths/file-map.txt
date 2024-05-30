@@ -31,10 +31,9 @@ com.example.uancinema_app-material-1.10.0-29 C:\Users\luzda\.gradle\caches\trans
 com.example.uancinema_app-cardview-1.0.0-30 C:\Users\luzda\.gradle\caches\transforms-3\faafb2ba2402ddd96bcf3da1f29d1434\transformed\cardview-1.0.0\res
 com.example.uancinema_app-core-1.10.1-31 C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\res
 com.example.uancinema_app-pngs-32 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\build\generated\res\pngs\debug
-com.example.uancinema_app-res-33 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\build\generated\res\processDebugGoogleServices
-com.example.uancinema_app-resValues-34 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\build\generated\res\resValues\debug
-com.example.uancinema_app-packageDebugResources-35 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.uancinema_app-packageDebugResources-36 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.uancinema_app-debug-37 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.uancinema_app-debug-38 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\debug\res
-com.example.uancinema_app-main-39 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\res
+com.example.uancinema_app-resValues-33 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\build\generated\res\resValues\debug
+com.example.uancinema_app-packageDebugResources-34 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.uancinema_app-packageDebugResources-35 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.uancinema_app-debug-36 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.uancinema_app-debug-37 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\debug\res
+com.example.uancinema_app-main-38 C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\res

@@ -39,8 +39,8 @@
         android:id="@+id/Registro"
         android:layout_width="295dp"
         android:layout_height="65dp"
-        android:onClick="openRegister"
         android:backgroundTint="#D34848"
+        android:onClick="openRegister"
         android:text="Registrarse"
         android:textColor="#000000"
         android:textSize="22sp"
@@ -49,6 +49,20 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/loginbutton"
         app:layout_constraintVertical_bias="0.148" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="296dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#AC8585"
+        android:text="Continuar como visitante"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:onClick="openPrimeraPantalla"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Registro" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 

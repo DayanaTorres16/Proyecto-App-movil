@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.uancinema_app-mergeDebugResources-35:/values-ta/values-ta.xml",
+            "outputFile": "com.example.uancinema_app-mergeDebugResources-34:/values-ta/values-ta.xml",
             "map": [
                 {
                     "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\d6ba048d3d14ad158afdba4f238b90fa\\transformed\\appcompat-1.6.1\\res\\values-ta\\values-ta.xml",

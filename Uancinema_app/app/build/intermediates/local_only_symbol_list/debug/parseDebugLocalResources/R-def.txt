@@ -48,6 +48,7 @@ id TextPassword
 id TitleMARVEL
 id TitleReparto
 id boton_registro
+id button
 id button2
 id button5
 id button6
@@ -168,12 +169,6 @@ layout fragment_tercer
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
-string gcm_defaultSenderId
-string google_api_key
-string google_app_id
-string google_crash_reporting_api_key
-string google_storage_bucket
-string project_id
 style Base.Theme.Uancinema_app
 style Theme.Uancinema_app
 xml backup_rules
