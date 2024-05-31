@@ -3,11 +3,15 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Uancinema_app</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="correo">Correo</string>
     <string name="gcm_defaultSenderId" translatable="false">1033079672442</string>
     <string name="google_api_key" translatable="false">AIzaSyDuvhiAycP1z2E51FvbGbJHM6CFborvWPM</string>
     <string name="google_app_id" translatable="false">1:1033079672442:android:76130b5695848f9d8ab5c3</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuvhiAycP1z2E51FvbGbJHM6CFborvWPM</string>
     <string name="google_storage_bucket" translatable="false">uanflix.appspot.com</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="inicio_de_sesion">Inicio de sesion</string>
     <string name="project_id" translatable="false">uanflix</string>
     <style name="Base.Theme.Uancinema_app" parent="Theme.Material3.DayNight.NoActionBar">
         

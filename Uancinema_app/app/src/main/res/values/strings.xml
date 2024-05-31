@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Uancinema_app</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="inicio_de_sesion">Inicio de sesion</string>
+    <string name="correo">Correo</string>
 </resources>

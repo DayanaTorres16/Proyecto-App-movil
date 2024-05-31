@@ -10,6 +10,7 @@ class PrimeraPantallaActivity: AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_primera_pantalla)
+
     }
     fun openCuartoFragment(view: View) {
         val intent = Intent(this, CuartoFragment::class.java).apply { }

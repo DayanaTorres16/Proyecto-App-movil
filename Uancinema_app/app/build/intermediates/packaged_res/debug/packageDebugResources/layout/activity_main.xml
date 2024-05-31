@@ -24,7 +24,6 @@
         android:id="@+id/loginbutton"
         android:layout_width="289dp"
         android:layout_height="64dp"
-        android:onClick="openLogin"
         android:backgroundTint="#DFCDCD"
         android:text="Iniciar sesion"
         android:textColor="#000000"
@@ -36,10 +35,9 @@
         app:layout_constraintVertical_bias="0.167" />
 
     <Button
-        android:id="@+id/Registro"
+        android:id="@+id/registroboton"
         android:layout_width="295dp"
         android:layout_height="65dp"
-        android:onClick="openRegister"
         android:backgroundTint="#D34848"
         android:text="Registrarse"
         android:textColor="#000000"
@@ -49,6 +47,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/loginbutton"
         app:layout_constraintVertical_bias="0.148" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 

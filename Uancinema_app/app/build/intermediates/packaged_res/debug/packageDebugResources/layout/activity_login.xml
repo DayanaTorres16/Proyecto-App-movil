@@ -34,9 +34,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="Inicio de sesion"
+        android:text="@string/inicio_de_sesion"
         android:textSize="25sp"
-        app:layout_constraintBottom_toTopOf="@+id/TextEmailAddress2"
+        app:layout_constraintBottom_toTopOf="@+id/editTextEmailAddress"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
@@ -49,7 +49,7 @@
         android:layout_width="145dp"
         android:layout_height="36dp"
         android:layout_marginTop="396dp"
-        android:text="Correo"
+        android:text="@string/correo"
         android:textSize="22sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.184"
@@ -58,7 +58,7 @@
         tools:ignore="MissingConstraints,TextSizeCheck" />
 
     <EditText
-        android:id="@+id/TextEmailAddress2"
+        android:id="@+id/editTextEmailAddress"
         android:layout_width="313dp"
         android:layout_height="45dp"
         android:layout_marginTop="184dp"
@@ -76,16 +76,16 @@
         android:layout_width="134dp"
         android:layout_height="34dp"
         android:layout_marginBottom="20dp"
-        android:text="Contraseña"
+        android:text="@string/contrase_a"
         android:textSize="22sp"
-        app:layout_constraintBottom_toTopOf="@+id/TextPassword"
+        app:layout_constraintBottom_toTopOf="@+id/editTextPassword"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.191"
         app:layout_constraintStart_toStartOf="parent"
         tools:ignore="TextSizeCheck" />
 
     <EditText
-        android:id="@+id/TextPassword"
+        android:id="@+id/editTextPassword"
         android:layout_width="312dp"
         android:layout_height="48dp"
         android:layout_marginTop="88dp"
@@ -96,17 +96,16 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/TextEmailAddress2"
+        app:layout_constraintTop_toBottomOf="@+id/editTextEmailAddress"
         tools:ignore="LabelFor" />
 
     <Button
-        android:id="@+id/login2"
+        android:id="@+id/loginbutton2"
         android:layout_width="237dp"
         android:layout_height="50dp"
         android:layout_marginBottom="56dp"
-        android:onClick="openPrimeraPantalla"
         android:backgroundTint="#DF4444"
-        android:text="Iniciar_sesion"
+        android:text="@string/iniciar_sesion"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="@+id/panelLogin"
         app:layout_constraintEnd_toEndOf="parent"

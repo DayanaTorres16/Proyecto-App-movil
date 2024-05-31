@@ -9,757 +9,1043 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:22:5-67
-11-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:22:22-64
-12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:23:5-79
-12-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:23:22-76
-13    <uses-permission android:name="android.permission.WAKE_LOCK" />
-13-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:24:5-68
-13-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:24:22-65
-14    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-14-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:25:5-79
-14-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:25:22-76
-15    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
-15-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:26:5-88
-15-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:26:22-85
-16    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
-16-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:27:5-82
-16-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:27:22-79
-17    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-17-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:26:5-110
-17-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:26:22-107
-18
-19    <permission
-19-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
-20        android:name="com.example.uancinema_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-20-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
-21        android:protectionLevel="signature" />
-21-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
-22
-23    <uses-permission android:name="com.example.uancinema_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-23-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
-23-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+11-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+14    <!-- <uses-sdk android:minSdkVersion="21"/> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-database:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\af56672a986c2302d32b7f05485567d4\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:5-79
+15-->[com.google.firebase:firebase-database:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\af56672a986c2302d32b7f05485567d4\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:22-76
+16    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+16-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:23:5-77
+16-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:23:22-74
+17    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+17-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:24:5-68
+17-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:24:22-65
+18    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+18-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:26:5-82
+18-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:26:22-79
+19    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+19-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\ee11621ed42e79da5430c69ab21f9b1b\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:25:5-79
+19-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\ee11621ed42e79da5430c69ab21f9b1b\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:25:22-76
+20    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
+20-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\ee11621ed42e79da5430c69ab21f9b1b\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:26:5-88
+20-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\ee11621ed42e79da5430c69ab21f9b1b\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:26:22-85
+21    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
+21-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\ee11621ed42e79da5430c69ab21f9b1b\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:27:5-82
+21-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\ee11621ed42e79da5430c69ab21f9b1b\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:27:22-79
+22    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+22-->[com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\luzda\.gradle\caches\transforms-3\005943c4887353725bbe04bf03447b94\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:5-98
+22-->[com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\luzda\.gradle\caches\transforms-3\005943c4887353725bbe04bf03447b94\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:22-95
+23    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+23-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:26:5-110
+23-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:26:22-107
 24
-25    <application
-25-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:5:5-294:19
-26        android:allowBackup="true"
-26-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:6:9-35
-27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-27-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\fea529f8fe413ca9e4249d4b19f5c407\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
-28        android:dataExtractionRules="@xml/data_extraction_rules"
-28-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:7:9-65
-29        android:debuggable="true"
-30        android:extractNativeLibs="false"
-31        android:fullBackupContent="@xml/backup_rules"
-31-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:8:9-54
-32        android:icon="@mipmap/ic_launcher"
-32-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:9:9-43
-33        android:label="@string/app_name"
-33-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:10:9-41
-34        android:roundIcon="@mipmap/ic_launcher_round"
-34-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:11:9-54
-35        android:supportsRtl="true"
-35-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:12:9-35
-36        android:testOnly="true"
-37        android:theme="@style/Theme.Uancinema_app" >
-37-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:13:9-51
-38        <activity
-38-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:15:9-23:20
-39            android:name="com.example.uancinema_app.MainActivity"
-39-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:16:13-41
-40            android:exported="true" >
-40-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:17:13-36
-41            <intent-filter>
-41-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-42                <action android:name="android.intent.action.MAIN" />
-42-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-42-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-43
-44                <category android:name="android.intent.category.LAUNCHER" />
-44-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-44-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-45            </intent-filter>
-46        </activity>
-47        <activity
-47-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:24:9-32:20
-48            android:name="com.example.uancinema_app.LoginActivity"
-48-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:25:13-42
-49            android:exported="true" >
-49-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:26:13-36
-50            <intent-filter>
-50-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-51                <action android:name="android.intent.action.MAIN" />
-51-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-51-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-52
-53                <category android:name="android.intent.category.LAUNCHER" />
-53-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-53-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-54            </intent-filter>
-55        </activity>
-56        <activity
-56-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:33:9-41:20
-57            android:name="com.example.uancinema_app.RegistroActivity"
-57-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:34:13-45
-58            android:exported="true" >
-58-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:35:13-36
-59            <intent-filter>
-59-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-60                <action android:name="android.intent.action.MAIN" />
-60-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-60-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-61
-62                <category android:name="android.intent.category.LAUNCHER" />
-62-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-62-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-63            </intent-filter>
-64        </activity>
-65        <activity
-65-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:42:9-50:20
-66            android:name="com.example.uancinema_app.PrimeraPantallaActivity"
-66-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:43:13-52
-67            android:exported="true" >
-67-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:44:13-36
-68            <intent-filter>
-68-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-69                <action android:name="android.intent.action.MAIN" />
-69-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-69-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-70
-71                <category android:name="android.intent.category.LAUNCHER" />
-71-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-71-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-72            </intent-filter>
-73        </activity>
-74        <activity
-74-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:51:9-59:20
-75            android:name="com.example.uancinema_app.CuartoFragment"
-75-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:52:13-43
-76            android:exported="true" >
-76-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:53:13-36
-77            <intent-filter>
-77-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-78                <action android:name="android.intent.action.MAIN" />
-78-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-78-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-79
-80                <category android:name="android.intent.category.LAUNCHER" />
-80-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-80-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-81            </intent-filter>
-82        </activity>
-83        <activity
-83-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:60:9-68:20
-84            android:name="com.example.uancinema_app.VisualizacionActivity"
-84-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:61:13-50
-85            android:exported="true" >
-85-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:62:13-36
-86            <intent-filter>
-86-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-87                <action android:name="android.intent.action.MAIN" />
-87-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-87-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-88
-89                <category android:name="android.intent.category.LAUNCHER" />
-89-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-89-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-90            </intent-filter>
-91        </activity>
-92        <activity
-92-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:69:9-77:20
-93            android:name="com.example.uancinema_app.PeliculaEndGameActivity"
-93-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:70:13-52
-94            android:exported="true" >
-94-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:71:13-36
-95            <intent-filter>
-95-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-96                <action android:name="android.intent.action.MAIN" />
-96-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-96-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-97
-98                <category android:name="android.intent.category.LAUNCHER" />
-98-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-98-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-99            </intent-filter>
-100        </activity>
-101        <activity
-101-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:78:9-86:20
-102            android:name="com.example.uancinema_app.DescargarEndgameActivity"
-102-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:79:13-53
-103            android:exported="true" >
-103-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:80:13-36
-104            <intent-filter>
-104-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-105                <action android:name="android.intent.action.MAIN" />
-105-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-105-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-106
-107                <category android:name="android.intent.category.LAUNCHER" />
-107-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-107-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-108            </intent-filter>
-109        </activity>
-110        <activity
-110-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:87:9-95:20
-111            android:name="com.example.uancinema_app.EstrellaEndgameActivity"
-111-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:88:13-52
-112            android:exported="true" >
-112-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:89:13-36
-113            <intent-filter>
-113-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-114                <action android:name="android.intent.action.MAIN" />
-114-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-114-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-115
-116                <category android:name="android.intent.category.LAUNCHER" />
-116-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-116-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-117            </intent-filter>
-118        </activity>
-119        <activity
-119-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:96:9-104:20
-120            android:name="com.example.uancinema_app.PeliculaDoctorStrangerActivity"
-120-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:97:13-59
-121            android:exported="true" >
-121-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:98:13-36
-122            <intent-filter>
-122-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-123                <action android:name="android.intent.action.MAIN" />
-123-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-123-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-124
-125                <category android:name="android.intent.category.LAUNCHER" />
-125-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-125-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-126            </intent-filter>
-127        </activity>
-128        <activity
-128-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:105:9-113:20
-129            android:name="com.example.uancinema_app.DescargarDoctorActivity"
-129-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:106:13-52
-130            android:exported="true" >
-130-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:107:13-36
-131            <intent-filter>
-131-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-132                <action android:name="android.intent.action.MAIN" />
-132-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-132-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-133
-134                <category android:name="android.intent.category.LAUNCHER" />
-134-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-134-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-135            </intent-filter>
-136        </activity>
-137        <activity
-137-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:114:9-122:20
-138            android:name="com.example.uancinema_app.EstrellaDoctorActivity"
-138-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:115:13-51
-139            android:exported="true" >
-139-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:116:13-36
-140            <intent-filter>
-140-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-141                <action android:name="android.intent.action.MAIN" />
-141-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-141-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-142
-143                <category android:name="android.intent.category.LAUNCHER" />
-143-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-143-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-144            </intent-filter>
-145        </activity>
-146        <activity
-146-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:123:9-131:20
-147            android:name="com.example.uancinema_app.PeliculaMillersActivity"
-147-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:124:13-52
-148            android:exported="true" >
-148-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:125:13-36
-149            <intent-filter>
-149-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-150                <action android:name="android.intent.action.MAIN" />
-150-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-150-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-151
-152                <category android:name="android.intent.category.LAUNCHER" />
-152-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-152-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-153            </intent-filter>
-154        </activity>
-155        <activity
-155-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:132:9-140:20
-156            android:name="com.example.uancinema_app.DescargarMillersActivity"
-156-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:133:13-53
-157            android:exported="true" >
-157-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:134:13-36
-158            <intent-filter>
-158-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-159                <action android:name="android.intent.action.MAIN" />
-159-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-159-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-160
-161                <category android:name="android.intent.category.LAUNCHER" />
-161-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-161-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-162            </intent-filter>
-163        </activity>
-164        <activity
-164-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:141:9-149:20
-165            android:name="com.example.uancinema_app.EstrellaMillersActivity"
-165-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:142:13-52
-166            android:exported="true" >
-166-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:143:13-36
-167            <intent-filter>
-167-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-168                <action android:name="android.intent.action.MAIN" />
-168-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-168-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-169
-170                <category android:name="android.intent.category.LAUNCHER" />
-170-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-170-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-171            </intent-filter>
-172        </activity>
-173        <activity
-173-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:150:9-158:20
-174            android:name="com.example.uancinema_app.PeliculaAnabelleActivity"
-174-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:151:13-53
-175            android:exported="true" >
-175-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:152:13-36
-176            <intent-filter>
-176-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-177                <action android:name="android.intent.action.MAIN" />
-177-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-177-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-178
-179                <category android:name="android.intent.category.LAUNCHER" />
-179-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-179-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-180            </intent-filter>
-181        </activity>
-182        <activity
-182-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:159:9-167:20
-183            android:name="com.example.uancinema_app.DescargarAnabelleActivity"
-183-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:160:13-54
-184            android:exported="true" >
-184-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:161:13-36
-185            <intent-filter>
-185-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-186                <action android:name="android.intent.action.MAIN" />
-186-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-186-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-187
-188                <category android:name="android.intent.category.LAUNCHER" />
-188-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-188-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-189            </intent-filter>
-190        </activity>
-191        <activity
-191-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:168:9-176:20
-192            android:name="com.example.uancinema_app.EstrellaAnabelleActivity"
-192-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:169:13-53
-193            android:exported="true" >
-193-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:170:13-36
-194            <intent-filter>
-194-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-195                <action android:name="android.intent.action.MAIN" />
-195-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-195-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-196
-197                <category android:name="android.intent.category.LAUNCHER" />
-197-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-197-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-198            </intent-filter>
-199        </activity>
-200        <activity
-200-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:177:9-185:20
-201            android:name="com.example.uancinema_app.PeliculaRatatouilleActivity"
-201-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:178:13-56
-202            android:exported="true" >
-202-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:179:13-36
-203            <intent-filter>
-203-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-204                <action android:name="android.intent.action.MAIN" />
-204-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-204-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-205
-206                <category android:name="android.intent.category.LAUNCHER" />
-206-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-206-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-207            </intent-filter>
-208        </activity>
-209        <activity
-209-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:186:9-194:20
-210            android:name="com.example.uancinema_app.DescargaRatatouilleActivity"
-210-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:187:13-56
-211            android:exported="true" >
-211-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:188:13-36
-212            <intent-filter>
-212-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-213                <action android:name="android.intent.action.MAIN" />
-213-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-213-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-214
-215                <category android:name="android.intent.category.LAUNCHER" />
-215-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-215-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-216            </intent-filter>
-217        </activity>
-218        <activity
-218-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:195:9-203:20
-219            android:name="com.example.uancinema_app.EstrellaRatatouilleActivity"
-219-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:196:13-56
-220            android:exported="true" >
-220-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:197:13-36
-221            <intent-filter>
-221-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-222                <action android:name="android.intent.action.MAIN" />
-222-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-222-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-223
-224                <category android:name="android.intent.category.LAUNCHER" />
-224-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-224-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-225            </intent-filter>
-226        </activity>
-227        <activity
-227-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:204:9-212:20
-228            android:name="com.example.uancinema_app.PeliculaMaleficaActivity"
-228-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:205:13-53
-229            android:exported="true" >
-229-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:206:13-36
-230            <intent-filter>
-230-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-231                <action android:name="android.intent.action.MAIN" />
-231-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-231-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-232
-233                <category android:name="android.intent.category.LAUNCHER" />
-233-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-233-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-234            </intent-filter>
-235        </activity>
-236        <activity
-236-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:213:9-221:20
-237            android:name="com.example.uancinema_app.DescargarMaleficaActivity"
-237-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:214:13-54
-238            android:exported="true" >
-238-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:215:13-36
-239            <intent-filter>
-239-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-240                <action android:name="android.intent.action.MAIN" />
-240-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-240-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-241
-242                <category android:name="android.intent.category.LAUNCHER" />
-242-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-242-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-243            </intent-filter>
-244        </activity>
-245        <activity
-245-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:222:9-230:20
-246            android:name="com.example.uancinema_app.EstrellaMaleficaActivity"
-246-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:223:13-53
-247            android:exported="true" >
-247-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:224:13-36
-248            <intent-filter>
-248-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-249                <action android:name="android.intent.action.MAIN" />
-249-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-249-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-250
-251                <category android:name="android.intent.category.LAUNCHER" />
-251-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-251-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-252            </intent-filter>
-253        </activity>
-254        <activity
-254-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:231:9-239:20
-255            android:name="com.example.uancinema_app.PeliculaAvatarActivity"
-255-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:232:13-51
-256            android:exported="true" >
-256-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:233:13-36
-257            <intent-filter>
-257-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-258                <action android:name="android.intent.action.MAIN" />
-258-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-258-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-259
-260                <category android:name="android.intent.category.LAUNCHER" />
-260-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-260-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-261            </intent-filter>
-262        </activity>
-263        <activity
-263-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:240:9-248:20
-264            android:name="com.example.uancinema_app.DescargarAvatarActivity"
-264-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:241:13-52
-265            android:exported="true" >
-265-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:242:13-36
-266            <intent-filter>
-266-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-267                <action android:name="android.intent.action.MAIN" />
-267-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-267-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-268
-269                <category android:name="android.intent.category.LAUNCHER" />
-269-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-269-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-270            </intent-filter>
-271        </activity>
-272        <activity
-272-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:249:9-257:20
-273            android:name="com.example.uancinema_app.EstrellaAvatarActivity"
-273-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:250:13-51
-274            android:exported="true" >
-274-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:251:13-36
-275            <intent-filter>
-275-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-276                <action android:name="android.intent.action.MAIN" />
-276-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-276-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-277
-278                <category android:name="android.intent.category.LAUNCHER" />
-278-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-278-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-279            </intent-filter>
-280        </activity>
-281        <activity
-281-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:258:9-266:20
-282            android:name="com.example.uancinema_app.PeliculasBusquedadActivity"
-282-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:259:13-55
-283            android:exported="true" >
-283-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:260:13-36
-284            <intent-filter>
-284-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-285                <action android:name="android.intent.action.MAIN" />
-285-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-285-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-286
-287                <category android:name="android.intent.category.LAUNCHER" />
-287-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-287-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-288            </intent-filter>
-289        </activity>
-290        <activity
-290-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:267:9-275:20
-291            android:name="com.example.uancinema_app.PrimerFragment"
-291-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:268:13-43
-292            android:exported="true" >
-292-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:269:13-36
-293            <intent-filter>
-293-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-294                <action android:name="android.intent.action.MAIN" />
-294-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-294-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-295
-296                <category android:name="android.intent.category.LAUNCHER" />
-296-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-296-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-297            </intent-filter>
-298        </activity>
-299        <activity
-299-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:276:9-284:20
-300            android:name="com.example.uancinema_app.SegundoFragment"
-300-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:277:13-44
-301            android:exported="true" >
-301-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:278:13-36
-302            <intent-filter>
-302-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-303                <action android:name="android.intent.action.MAIN" />
-303-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-303-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-304
-305                <category android:name="android.intent.category.LAUNCHER" />
-305-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-305-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-306            </intent-filter>
-307        </activity>
-308        <activity
-308-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:285:9-293:20
-309            android:name="com.example.uancinema_app.TercerFragment"
-309-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:286:13-43
-310            android:exported="true" >
-310-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:287:13-36
-311            <intent-filter>
-311-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-22:29
-312                <action android:name="android.intent.action.MAIN" />
-312-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:17-69
-312-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:25-66
-313
-314                <category android:name="android.intent.category.LAUNCHER" />
-314-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-77
-314-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:27-74
-315            </intent-filter>
-316        </activity>
-317
-318        <property
-318-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:30:9-32:61
-319            android:name="android.adservices.AD_SERVICES_CONFIG"
-319-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:31:13-65
-320            android:resource="@xml/ga_ad_services_config" />
-320-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:32:13-58
-321
-322        <service
-322-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:34:9-40:19
-323            android:name="com.google.firebase.components.ComponentDiscoveryService"
-323-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:35:13-84
-324            android:directBootAware="true"
-324-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
-325            android:exported="false" >
-325-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:36:13-37
-326            <meta-data
-326-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:37:13-39:85
-327                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-327-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:38:17-139
-328                android:value="com.google.firebase.components.ComponentRegistrar" />
-328-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\58732f25826e8a9ef7bfdb0baf086906\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:39:17-82
-329            <meta-data
-329-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
-330                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
-330-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
-331                android:value="com.google.firebase.components.ComponentRegistrar" />
-331-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
-332            <meta-data
-332-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
-333                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-333-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
-334                android:value="com.google.firebase.components.ComponentRegistrar" />
-334-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0d8f07feebe086cfb359704868b2b7f3\transformed\firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
-335            <meta-data
-335-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\50040913ddcf9dd15a3172f4edc3f7ce\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
-336                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
-336-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\50040913ddcf9dd15a3172f4edc3f7ce\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
-337                android:value="com.google.firebase.components.ComponentRegistrar" />
-337-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\50040913ddcf9dd15a3172f4edc3f7ce\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
-338            <meta-data
-338-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
-339                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
-339-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
-340                android:value="com.google.firebase.components.ComponentRegistrar" />
-340-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
-341        </service>
-342
-343        <receiver
-343-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:29:9-33:20
-344            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-344-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:30:13-85
-345            android:enabled="true"
-345-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:31:13-35
-346            android:exported="false" >
-346-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:32:13-37
-347        </receiver>
-348
-349        <service
-349-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:35:9-38:40
-350            android:name="com.google.android.gms.measurement.AppMeasurementService"
-350-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:36:13-84
-351            android:enabled="true"
-351-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:37:13-35
-352            android:exported="false" />
-352-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:38:13-37
-353        <service
-353-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:39:9-43:72
-354            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-354-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:40:13-87
-355            android:enabled="true"
-355-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:41:13-35
-356            android:exported="false"
-356-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:42:13-37
-357            android:permission="android.permission.BIND_JOB_SERVICE" />
-357-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\dde533acca9aa860f46a99958f563bec\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:43:13-69
-358
-359        <uses-library
-359-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\087eb27edcdf8f8e3e53113421122d69\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
-360            android:name="android.ext.adservices"
-360-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\087eb27edcdf8f8e3e53113421122d69\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
-361            android:required="false" />
-361-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\087eb27edcdf8f8e3e53113421122d69\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
-362
-363        <provider
-363-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
-364            android:name="com.google.firebase.provider.FirebaseInitProvider"
-364-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
-365            android:authorities="com.example.uancinema_app.firebaseinitprovider"
-365-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
-366            android:directBootAware="true"
-366-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
-367            android:exported="false"
-367-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
-368            android:initOrder="100" />
-368-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\a930a4d11ce6791098e730b6dfd50680\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
-369
-370        <meta-data
-370-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c61672a11a9031abead460f9507aa7b3\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
-371            android:name="com.google.android.gms.version"
-371-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c61672a11a9031abead460f9507aa7b3\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
-372            android:value="@integer/google_play_services_version" />
-372-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\c61672a11a9031abead460f9507aa7b3\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
-373
-374        <provider
-374-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-375            android:name="androidx.startup.InitializationProvider"
-375-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-376            android:authorities="com.example.uancinema_app.androidx-startup"
-376-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-377            android:exported="false" >
-377-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-378            <meta-data
-378-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-379                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-379-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-380                android:value="androidx.startup" />
-380-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\7740bb4cbded76a007a32091727230e6\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-381            <meta-data
-381-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\34d9b32ee0bc589f7a7d0d4fec6ad224\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
-382                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-382-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\34d9b32ee0bc589f7a7d0d4fec6ad224\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
-383                android:value="androidx.startup" />
-383-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\34d9b32ee0bc589f7a7d0d4fec6ad224\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
-384            <meta-data
-384-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-385                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-385-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
-386                android:value="androidx.startup" />
-386-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-387        </provider>
-388
-389        <receiver
-389-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-390            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-390-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
-391            android:directBootAware="false"
-391-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
-392            android:enabled="true"
-392-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-393            android:exported="true"
-393-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-394            android:permission="android.permission.DUMP" >
-394-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
-395            <intent-filter>
-395-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
-396                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-396-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-396-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
-397            </intent-filter>
-398            <intent-filter>
-398-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
-399                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-399-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-399-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+25    <permission
+25-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\a4c70c7b7ec53d91b4c615071fb4fd8c\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+26        android:name="com.example.uancinema_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+26-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\a4c70c7b7ec53d91b4c615071fb4fd8c\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+27        android:protectionLevel="signature" />
+27-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\a4c70c7b7ec53d91b4c615071fb4fd8c\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+28
+29    <uses-permission android:name="com.example.uancinema_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+29-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\a4c70c7b7ec53d91b4c615071fb4fd8c\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+29-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\a4c70c7b7ec53d91b4c615071fb4fd8c\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+30
+31    <application
+31-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:7:5-296:19
+32        android:allowBackup="true"
+32-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:8:9-35
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.10.1] C:\Users\luzda\.gradle\caches\transforms-3\a4c70c7b7ec53d91b4c615071fb4fd8c\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+34        android:dataExtractionRules="@xml/data_extraction_rules"
+34-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:9:9-65
+35        android:debuggable="true"
+36        android:extractNativeLibs="false"
+37        android:fullBackupContent="@xml/backup_rules"
+37-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:10:9-54
+38        android:icon="@mipmap/ic_launcher"
+38-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:11:9-43
+39        android:label="@string/app_name"
+39-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:12:9-41
+40        android:roundIcon="@mipmap/ic_launcher_round"
+40-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:13:9-54
+41        android:supportsRtl="true"
+41-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:14:9-35
+42        android:testOnly="true"
+43        android:theme="@style/Theme.Uancinema_app" >
+43-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:15:9-51
+44        <activity
+44-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:17:9-25:20
+45            android:name="com.example.uancinema_app.MainActivity"
+45-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:18:13-41
+46            android:exported="true" >
+46-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:19:13-36
+47            <intent-filter>
+47-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+48-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+50-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+51            </intent-filter>
+52        </activity>
+53        <activity
+53-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:26:9-34:20
+54            android:name="com.example.uancinema_app.LoginActivity"
+54-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:27:13-42
+55            android:exported="true" >
+55-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:28:13-36
+56            <intent-filter>
+56-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+57-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+59-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+60            </intent-filter>
+61        </activity>
+62        <activity
+62-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:35:9-43:20
+63            android:name="com.example.uancinema_app.RegistroActivity"
+63-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:36:13-45
+64            android:exported="true" >
+64-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:37:13-36
+65            <intent-filter>
+65-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+66-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+68-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+69            </intent-filter>
+70        </activity>
+71        <activity
+71-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:44:9-52:20
+72            android:name="com.example.uancinema_app.PrimeraPantallaActivity"
+72-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:45:13-52
+73            android:exported="true" >
+73-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:46:13-36
+74            <intent-filter>
+74-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+75                <action android:name="android.intent.action.MAIN" />
+75-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+75-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+76
+77                <category android:name="android.intent.category.LAUNCHER" />
+77-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+77-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+78            </intent-filter>
+79        </activity>
+80        <activity
+80-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:53:9-61:20
+81            android:name="com.example.uancinema_app.CuartoFragment"
+81-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:54:13-43
+82            android:exported="true" >
+82-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:55:13-36
+83            <intent-filter>
+83-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+84                <action android:name="android.intent.action.MAIN" />
+84-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+84-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+85
+86                <category android:name="android.intent.category.LAUNCHER" />
+86-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+86-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+87            </intent-filter>
+88        </activity>
+89        <activity
+89-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:62:9-70:20
+90            android:name="com.example.uancinema_app.VisualizacionActivity"
+90-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:63:13-50
+91            android:exported="true" >
+91-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:64:13-36
+92            <intent-filter>
+92-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+93                <action android:name="android.intent.action.MAIN" />
+93-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+93-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+94
+95                <category android:name="android.intent.category.LAUNCHER" />
+95-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+95-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+96            </intent-filter>
+97        </activity>
+98        <activity
+98-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:71:9-79:20
+99            android:name="com.example.uancinema_app.PeliculaEndGameActivity"
+99-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:72:13-52
+100            android:exported="true" >
+100-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:73:13-36
+101            <intent-filter>
+101-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+102                <action android:name="android.intent.action.MAIN" />
+102-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+102-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+103
+104                <category android:name="android.intent.category.LAUNCHER" />
+104-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+104-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+105            </intent-filter>
+106        </activity>
+107        <activity
+107-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:80:9-88:20
+108            android:name="com.example.uancinema_app.DescargarEndgameActivity"
+108-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:81:13-53
+109            android:exported="true" >
+109-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:82:13-36
+110            <intent-filter>
+110-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+111                <action android:name="android.intent.action.MAIN" />
+111-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+111-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+112
+113                <category android:name="android.intent.category.LAUNCHER" />
+113-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+113-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+114            </intent-filter>
+115        </activity>
+116        <activity
+116-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:89:9-97:20
+117            android:name="com.example.uancinema_app.EstrellaEndgameActivity"
+117-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:90:13-52
+118            android:exported="true" >
+118-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:91:13-36
+119            <intent-filter>
+119-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+120                <action android:name="android.intent.action.MAIN" />
+120-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+120-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+121
+122                <category android:name="android.intent.category.LAUNCHER" />
+122-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+122-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+123            </intent-filter>
+124        </activity>
+125        <activity
+125-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:98:9-106:20
+126            android:name="com.example.uancinema_app.PeliculaDoctorStrangerActivity"
+126-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:99:13-59
+127            android:exported="true" >
+127-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:100:13-36
+128            <intent-filter>
+128-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+129                <action android:name="android.intent.action.MAIN" />
+129-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+129-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+130
+131                <category android:name="android.intent.category.LAUNCHER" />
+131-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+131-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+132            </intent-filter>
+133        </activity>
+134        <activity
+134-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:107:9-115:20
+135            android:name="com.example.uancinema_app.DescargarDoctorActivity"
+135-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:108:13-52
+136            android:exported="true" >
+136-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:109:13-36
+137            <intent-filter>
+137-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+138                <action android:name="android.intent.action.MAIN" />
+138-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+138-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+139
+140                <category android:name="android.intent.category.LAUNCHER" />
+140-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+140-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+141            </intent-filter>
+142        </activity>
+143        <activity
+143-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:116:9-124:20
+144            android:name="com.example.uancinema_app.EstrellaDoctorActivity"
+144-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:117:13-51
+145            android:exported="true" >
+145-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:118:13-36
+146            <intent-filter>
+146-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+147                <action android:name="android.intent.action.MAIN" />
+147-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+147-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+148
+149                <category android:name="android.intent.category.LAUNCHER" />
+149-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+149-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+150            </intent-filter>
+151        </activity>
+152        <activity
+152-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:125:9-133:20
+153            android:name="com.example.uancinema_app.PeliculaMillersActivity"
+153-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:126:13-52
+154            android:exported="true" >
+154-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:127:13-36
+155            <intent-filter>
+155-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+156                <action android:name="android.intent.action.MAIN" />
+156-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+156-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+157
+158                <category android:name="android.intent.category.LAUNCHER" />
+158-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+158-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+159            </intent-filter>
+160        </activity>
+161        <activity
+161-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:134:9-142:20
+162            android:name="com.example.uancinema_app.DescargarMillersActivity"
+162-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:135:13-53
+163            android:exported="true" >
+163-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:136:13-36
+164            <intent-filter>
+164-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+165                <action android:name="android.intent.action.MAIN" />
+165-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+165-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+166
+167                <category android:name="android.intent.category.LAUNCHER" />
+167-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+167-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+168            </intent-filter>
+169        </activity>
+170        <activity
+170-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:143:9-151:20
+171            android:name="com.example.uancinema_app.EstrellaMillersActivity"
+171-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:144:13-52
+172            android:exported="true" >
+172-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:145:13-36
+173            <intent-filter>
+173-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+174                <action android:name="android.intent.action.MAIN" />
+174-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+174-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+175
+176                <category android:name="android.intent.category.LAUNCHER" />
+176-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+176-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+177            </intent-filter>
+178        </activity>
+179        <activity
+179-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:152:9-160:20
+180            android:name="com.example.uancinema_app.PeliculaAnabelleActivity"
+180-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:153:13-53
+181            android:exported="true" >
+181-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:154:13-36
+182            <intent-filter>
+182-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+183                <action android:name="android.intent.action.MAIN" />
+183-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+183-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+184
+185                <category android:name="android.intent.category.LAUNCHER" />
+185-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+185-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+186            </intent-filter>
+187        </activity>
+188        <activity
+188-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:161:9-169:20
+189            android:name="com.example.uancinema_app.DescargarAnabelleActivity"
+189-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:162:13-54
+190            android:exported="true" >
+190-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:163:13-36
+191            <intent-filter>
+191-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+192                <action android:name="android.intent.action.MAIN" />
+192-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+192-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+193
+194                <category android:name="android.intent.category.LAUNCHER" />
+194-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+194-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+195            </intent-filter>
+196        </activity>
+197        <activity
+197-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:170:9-178:20
+198            android:name="com.example.uancinema_app.EstrellaAnabelleActivity"
+198-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:171:13-53
+199            android:exported="true" >
+199-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:172:13-36
+200            <intent-filter>
+200-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+201                <action android:name="android.intent.action.MAIN" />
+201-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+201-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+202
+203                <category android:name="android.intent.category.LAUNCHER" />
+203-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+203-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+204            </intent-filter>
+205        </activity>
+206        <activity
+206-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:179:9-187:20
+207            android:name="com.example.uancinema_app.PeliculaRatatouilleActivity"
+207-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:180:13-56
+208            android:exported="true" >
+208-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:181:13-36
+209            <intent-filter>
+209-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+210                <action android:name="android.intent.action.MAIN" />
+210-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+210-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+211
+212                <category android:name="android.intent.category.LAUNCHER" />
+212-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+212-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+213            </intent-filter>
+214        </activity>
+215        <activity
+215-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:188:9-196:20
+216            android:name="com.example.uancinema_app.DescargaRatatouilleActivity"
+216-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:189:13-56
+217            android:exported="true" >
+217-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:190:13-36
+218            <intent-filter>
+218-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+219                <action android:name="android.intent.action.MAIN" />
+219-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+219-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+220
+221                <category android:name="android.intent.category.LAUNCHER" />
+221-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+221-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+222            </intent-filter>
+223        </activity>
+224        <activity
+224-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:197:9-205:20
+225            android:name="com.example.uancinema_app.EstrellaRatatouilleActivity"
+225-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:198:13-56
+226            android:exported="true" >
+226-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:199:13-36
+227            <intent-filter>
+227-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+228                <action android:name="android.intent.action.MAIN" />
+228-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+228-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+229
+230                <category android:name="android.intent.category.LAUNCHER" />
+230-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+230-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+231            </intent-filter>
+232        </activity>
+233        <activity
+233-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:206:9-214:20
+234            android:name="com.example.uancinema_app.PeliculaMaleficaActivity"
+234-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:207:13-53
+235            android:exported="true" >
+235-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:208:13-36
+236            <intent-filter>
+236-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+237                <action android:name="android.intent.action.MAIN" />
+237-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+237-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+238
+239                <category android:name="android.intent.category.LAUNCHER" />
+239-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+239-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+240            </intent-filter>
+241        </activity>
+242        <activity
+242-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:215:9-223:20
+243            android:name="com.example.uancinema_app.DescargarMaleficaActivity"
+243-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:216:13-54
+244            android:exported="true" >
+244-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:217:13-36
+245            <intent-filter>
+245-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+246                <action android:name="android.intent.action.MAIN" />
+246-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+246-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+247
+248                <category android:name="android.intent.category.LAUNCHER" />
+248-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+248-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+249            </intent-filter>
+250        </activity>
+251        <activity
+251-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:224:9-232:20
+252            android:name="com.example.uancinema_app.EstrellaMaleficaActivity"
+252-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:225:13-53
+253            android:exported="true" >
+253-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:226:13-36
+254            <intent-filter>
+254-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+255                <action android:name="android.intent.action.MAIN" />
+255-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+255-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+256
+257                <category android:name="android.intent.category.LAUNCHER" />
+257-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+257-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+258            </intent-filter>
+259        </activity>
+260        <activity
+260-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:233:9-241:20
+261            android:name="com.example.uancinema_app.PeliculaAvatarActivity"
+261-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:234:13-51
+262            android:exported="true" >
+262-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:235:13-36
+263            <intent-filter>
+263-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+264                <action android:name="android.intent.action.MAIN" />
+264-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+264-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+265
+266                <category android:name="android.intent.category.LAUNCHER" />
+266-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+266-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+267            </intent-filter>
+268        </activity>
+269        <activity
+269-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:242:9-250:20
+270            android:name="com.example.uancinema_app.DescargarAvatarActivity"
+270-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:243:13-52
+271            android:exported="true" >
+271-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:244:13-36
+272            <intent-filter>
+272-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+273                <action android:name="android.intent.action.MAIN" />
+273-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+273-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+274
+275                <category android:name="android.intent.category.LAUNCHER" />
+275-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+275-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+276            </intent-filter>
+277        </activity>
+278        <activity
+278-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:251:9-259:20
+279            android:name="com.example.uancinema_app.EstrellaAvatarActivity"
+279-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:252:13-51
+280            android:exported="true" >
+280-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:253:13-36
+281            <intent-filter>
+281-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+282                <action android:name="android.intent.action.MAIN" />
+282-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+282-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+283
+284                <category android:name="android.intent.category.LAUNCHER" />
+284-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+284-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+285            </intent-filter>
+286        </activity>
+287        <activity
+287-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:260:9-268:20
+288            android:name="com.example.uancinema_app.PeliculasBusquedadActivity"
+288-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:261:13-55
+289            android:exported="true" >
+289-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:262:13-36
+290            <intent-filter>
+290-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+291                <action android:name="android.intent.action.MAIN" />
+291-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+291-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+292
+293                <category android:name="android.intent.category.LAUNCHER" />
+293-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+293-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+294            </intent-filter>
+295        </activity>
+296        <activity
+296-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:269:9-277:20
+297            android:name="com.example.uancinema_app.PrimerFragment"
+297-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:270:13-43
+298            android:exported="true" >
+298-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:271:13-36
+299            <intent-filter>
+299-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+300                <action android:name="android.intent.action.MAIN" />
+300-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+300-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+301
+302                <category android:name="android.intent.category.LAUNCHER" />
+302-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+302-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+303            </intent-filter>
+304        </activity>
+305        <activity
+305-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:278:9-286:20
+306            android:name="com.example.uancinema_app.SegundoFragment"
+306-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:279:13-44
+307            android:exported="true" >
+307-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:280:13-36
+308            <intent-filter>
+308-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+309                <action android:name="android.intent.action.MAIN" />
+309-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+309-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+310
+311                <category android:name="android.intent.category.LAUNCHER" />
+311-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+311-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+312            </intent-filter>
+313        </activity>
+314        <activity
+314-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:287:9-295:20
+315            android:name="com.example.uancinema_app.TercerFragment"
+315-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:288:13-43
+316            android:exported="true" >
+316-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:289:13-36
+317            <intent-filter>
+317-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:20:13-24:29
+318                <action android:name="android.intent.action.MAIN" />
+318-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:17-69
+318-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:21:25-66
+319
+320                <category android:name="android.intent.category.LAUNCHER" />
+320-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:17-77
+320-->C:\Users\luzda\Documents\GitHub\Proyecto-App-movil\Uancinema_app\app\src\main\AndroidManifest.xml:23:27-74
+321            </intent-filter>
+322        </activity>
+323
+324        <service
+324-->[com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\luzda\.gradle\caches\transforms-3\87273adf2bc78c3591fd6219335cf7ae\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:9:9-15:19
+325            android:name="com.google.firebase.components.ComponentDiscoveryService"
+325-->[com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\luzda\.gradle\caches\transforms-3\87273adf2bc78c3591fd6219335cf7ae\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:10:13-84
+326            android:directBootAware="true"
+326-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\e5ebec06a77087e8d33f3b6339f351f0\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+327            android:exported="false" >
+327-->[com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\luzda\.gradle\caches\transforms-3\87273adf2bc78c3591fd6219335cf7ae\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:11:13-37
+328            <meta-data
+328-->[com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\luzda\.gradle\caches\transforms-3\87273adf2bc78c3591fd6219335cf7ae\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:12:13-14:85
+329                android:name="com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar"
+329-->[com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\luzda\.gradle\caches\transforms-3\87273adf2bc78c3591fd6219335cf7ae\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:13:17-129
+330                android:value="com.google.firebase.components.ComponentRegistrar" />
+330-->[com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\luzda\.gradle\caches\transforms-3\87273adf2bc78c3591fd6219335cf7ae\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:14:17-82
+331            <meta-data
+331-->[com.google.firebase:firebase-analytics-ktx:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\316e44f66672cbd3c15d2afc73d26aae\transformed\firebase-analytics-ktx-22.0.0\AndroidManifest.xml:11:13-13:85
+332                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsLegacyRegistrar"
+332-->[com.google.firebase:firebase-analytics-ktx:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\316e44f66672cbd3c15d2afc73d26aae\transformed\firebase-analytics-ktx-22.0.0\AndroidManifest.xml:12:17-129
+333                android:value="com.google.firebase.components.ComponentRegistrar" />
+333-->[com.google.firebase:firebase-analytics-ktx:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\316e44f66672cbd3c15d2afc73d26aae\transformed\firebase-analytics-ktx-22.0.0\AndroidManifest.xml:13:17-82
+334            <meta-data
+334-->[com.google.firebase:firebase-database:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\af56672a986c2302d32b7f05485567d4\transformed\firebase-database-21.0.0\AndroidManifest.xml:29:13-31:85
+335                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+335-->[com.google.firebase:firebase-database:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\af56672a986c2302d32b7f05485567d4\transformed\firebase-database-21.0.0\AndroidManifest.xml:30:17-120
+336                android:value="com.google.firebase.components.ComponentRegistrar" />
+336-->[com.google.firebase:firebase-database:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\af56672a986c2302d32b7f05485567d4\transformed\firebase-database-21.0.0\AndroidManifest.xml:31:17-82
+337            <meta-data
+337-->[com.google.firebase:firebase-database:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\af56672a986c2302d32b7f05485567d4\transformed\firebase-database-21.0.0\AndroidManifest.xml:32:13-34:85
+338                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+338-->[com.google.firebase:firebase-database:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\af56672a986c2302d32b7f05485567d4\transformed\firebase-database-21.0.0\AndroidManifest.xml:33:17-109
+339                android:value="com.google.firebase.components.ComponentRegistrar" />
+339-->[com.google.firebase:firebase-database:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\af56672a986c2302d32b7f05485567d4\transformed\firebase-database-21.0.0\AndroidManifest.xml:34:17-82
+340            <meta-data
+340-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:57:13-59:85
+341                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar"
+341-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:58:17-122
+342                android:value="com.google.firebase.components.ComponentRegistrar" />
+342-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:59:17-82
+343            <meta-data
+343-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:60:13-62:85
+344                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+344-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:61:17-119
+345                android:value="com.google.firebase.components.ComponentRegistrar" />
+345-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:62:17-82
+346            <meta-data
+346-->[com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\6ef434ed926f5f62f396ff770de1cdd0\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:11:13-13:85
+347                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar"
+347-->[com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\6ef434ed926f5f62f396ff770de1cdd0\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:12:17-119
+348                android:value="com.google.firebase.components.ComponentRegistrar" />
+348-->[com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\6ef434ed926f5f62f396ff770de1cdd0\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:13:17-82
+349            <meta-data
+349-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0310817fb95417939059a2900d6aa218\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:17:13-19:85
+350                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+350-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0310817fb95417939059a2900d6aa218\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:18:17-122
+351                android:value="com.google.firebase.components.ComponentRegistrar" />
+351-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0310817fb95417939059a2900d6aa218\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:19:17-82
+352            <meta-data
+352-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0310817fb95417939059a2900d6aa218\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:20:13-22:85
+353                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+353-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0310817fb95417939059a2900d6aa218\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:21:17-111
+354                android:value="com.google.firebase.components.ComponentRegistrar" />
+354-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\luzda\.gradle\caches\transforms-3\0310817fb95417939059a2900d6aa218\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:22:17-82
+355            <meta-data
+355-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\ee11621ed42e79da5430c69ab21f9b1b\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:37:13-39:85
+356                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+356-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\ee11621ed42e79da5430c69ab21f9b1b\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:38:17-139
+357                android:value="com.google.firebase.components.ComponentRegistrar" />
+357-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\ee11621ed42e79da5430c69ab21f9b1b\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:39:17-82
+358            <meta-data
+358-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\27f70423d36098b2333e309e6492c76c\transformed\firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+359                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+359-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\27f70423d36098b2333e309e6492c76c\transformed\firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+360                android:value="com.google.firebase.components.ComponentRegistrar" />
+360-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\27f70423d36098b2333e309e6492c76c\transformed\firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+361            <meta-data
+361-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\27f70423d36098b2333e309e6492c76c\transformed\firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+362                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+362-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\27f70423d36098b2333e309e6492c76c\transformed\firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
+363                android:value="com.google.firebase.components.ComponentRegistrar" />
+363-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\luzda\.gradle\caches\transforms-3\27f70423d36098b2333e309e6492c76c\transformed\firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+364            <meta-data
+364-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:69:13-71:85
+365                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+365-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:70:17-109
+366                android:value="com.google.firebase.components.ComponentRegistrar" />
+366-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:71:17-82
+367            <meta-data
+367-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\eba6ce84ec80cfbe9a7e772abec24b93\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+368                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+368-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\eba6ce84ec80cfbe9a7e772abec24b93\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+369                android:value="com.google.firebase.components.ComponentRegistrar" />
+369-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\eba6ce84ec80cfbe9a7e772abec24b93\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+370            <meta-data
+370-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\e5ebec06a77087e8d33f3b6339f351f0\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+371                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+371-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\e5ebec06a77087e8d33f3b6339f351f0\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+372                android:value="com.google.firebase.components.ComponentRegistrar" />
+372-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\e5ebec06a77087e8d33f3b6339f351f0\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+373            <meta-data
+373-->[com.google.firebase:firebase-datatransport:18.2.0] C:\Users\luzda\.gradle\caches\transforms-3\eb5162fc91dcdd30ca057fea1646ca6e\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:25:13-27:85
+374                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+374-->[com.google.firebase:firebase-datatransport:18.2.0] C:\Users\luzda\.gradle\caches\transforms-3\eb5162fc91dcdd30ca057fea1646ca6e\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:26:17-115
+375                android:value="com.google.firebase.components.ComponentRegistrar" />
+375-->[com.google.firebase:firebase-datatransport:18.2.0] C:\Users\luzda\.gradle\caches\transforms-3\eb5162fc91dcdd30ca057fea1646ca6e\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:27:17-82
+376        </service>
+377
+378        <receiver
+378-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:29:9-40:20
+379            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+379-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:30:13-78
+380            android:exported="true"
+380-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:31:13-36
+381            android:permission="com.google.android.c2dm.permission.SEND" >
+381-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:32:13-73
+382            <intent-filter>
+382-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:33:13-35:29
+383                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+383-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:34:17-81
+383-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:34:25-78
+384            </intent-filter>
+385
+386            <meta-data
+386-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:37:13-39:40
+387                android:name="com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED"
+387-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:38:17-92
+388                android:value="true" />
+388-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:39:17-37
+389        </receiver>
+390        <!--
+391             FirebaseMessagingService performs security checks at runtime,
+392             but set to not exported to explicitly avoid allowing another app to call it.
+393        -->
+394        <service
+394-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:46:9-53:19
+395            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+395-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:47:13-82
+396            android:directBootAware="true"
+396-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:48:13-43
+397            android:exported="false" >
+397-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:49:13-37
+398            <intent-filter android:priority="-500" >
+398-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:50:13-52:29
+398-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:50:28-51
+399                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+399-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:51:17-78
+399-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\luzda\.gradle\caches\transforms-3\86463241eae08d2711fb63e2b50bd4e3\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:51:25-75
 400            </intent-filter>
-401            <intent-filter>
-401-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
-402                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-402-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-402-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
-403            </intent-filter>
-404            <intent-filter>
-404-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
-405                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-405-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-405-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\811045e5343ee6942722e08092f3a2d8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
-406            </intent-filter>
-407        </receiver>
-408    </application>
-409
-410</manifest>
+401        </service>
+402
+403        <property
+403-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\ee11621ed42e79da5430c69ab21f9b1b\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:30:9-32:61
+404            android:name="android.adservices.AD_SERVICES_CONFIG"
+404-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\ee11621ed42e79da5430c69ab21f9b1b\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:31:13-65
+405            android:resource="@xml/ga_ad_services_config" />
+405-->[com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\ee11621ed42e79da5430c69ab21f9b1b\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:32:13-58
+406
+407        <activity
+407-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:29:9-46:20
+408            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+408-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:30:13-80
+409            android:excludeFromRecents="true"
+409-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:31:13-46
+410            android:exported="true"
+410-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:32:13-36
+411            android:launchMode="singleTask"
+411-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:33:13-44
+412            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+412-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:34:13-72
+413            <intent-filter>
+413-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:35:13-45:29
+414                <action android:name="android.intent.action.VIEW" />
+414-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:17-69
+414-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:25-66
+415
+416                <category android:name="android.intent.category.DEFAULT" />
+416-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:17-76
+416-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:27-73
+417                <category android:name="android.intent.category.BROWSABLE" />
+417-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:17-78
+417-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
+418
+419                <data
+419-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:41:17-44:51
+420                    android:host="firebase.auth"
+420-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:42:21-49
+421                    android:path="/"
+421-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:43:21-37
+422                    android:scheme="genericidp" />
+422-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:44:21-48
+423            </intent-filter>
+424        </activity>
+425        <activity
+425-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:47:9-64:20
+426            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+426-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:48:13-79
+427            android:excludeFromRecents="true"
+427-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:49:13-46
+428            android:exported="true"
+428-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:50:13-36
+429            android:launchMode="singleTask"
+429-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:51:13-44
+430            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+430-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:52:13-72
+431            <intent-filter>
+431-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:53:13-63:29
+432                <action android:name="android.intent.action.VIEW" />
+432-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:17-69
+432-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:25-66
+433
+434                <category android:name="android.intent.category.DEFAULT" />
+434-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:17-76
+434-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:27-73
+435                <category android:name="android.intent.category.BROWSABLE" />
+435-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:17-78
+435-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
+436
+437                <data
+437-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:41:17-44:51
+438                    android:host="firebase.auth"
+438-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:42:21-49
+439                    android:path="/"
+439-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:43:21-37
+440                    android:scheme="recaptcha" />
+440-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\luzda\.gradle\caches\transforms-3\d67c35351501bfda6d4157c8c9151353\transformed\firebase-auth-23.0.0\AndroidManifest.xml:44:21-48
+441            </intent-filter>
+442        </activity>
+443
+444        <service
+444-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+445            android:name="androidx.credentials.playservices.CredentialProviderMetadataHolder"
+445-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+446            android:enabled="true"
+446-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+447            android:exported="false" >
+447-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+448            <meta-data
+448-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+449                android:name="androidx.credentials.CREDENTIAL_PROVIDER_KEY"
+449-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+450                android:value="androidx.credentials.playservices.CredentialProviderPlayServicesImpl" />
+450-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+451        </service>
+452
+453        <activity
+453-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+454            android:name="androidx.credentials.playservices.HiddenActivity"
+454-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+455            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+455-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+456            android:enabled="true"
+456-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+457            android:exported="false"
+457-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+458            android:fitsSystemWindows="true"
+458-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+459            android:theme="@style/Theme.Hidden" >
+459-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\luzda\.gradle\caches\transforms-3\08b167f1f276728a14f9e1c2716c7a7c\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+460        </activity>
+461        <activity
+461-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\luzda\.gradle\caches\transforms-3\588aa0450bed60f5cd4ca88380a1a523\transformed\play-services-auth-21.2.0\AndroidManifest.xml:23:9-27:75
+462            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+462-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\luzda\.gradle\caches\transforms-3\588aa0450bed60f5cd4ca88380a1a523\transformed\play-services-auth-21.2.0\AndroidManifest.xml:24:13-93
+463            android:excludeFromRecents="true"
+463-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\luzda\.gradle\caches\transforms-3\588aa0450bed60f5cd4ca88380a1a523\transformed\play-services-auth-21.2.0\AndroidManifest.xml:25:13-46
+464            android:exported="false"
+464-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\luzda\.gradle\caches\transforms-3\588aa0450bed60f5cd4ca88380a1a523\transformed\play-services-auth-21.2.0\AndroidManifest.xml:26:13-37
+465            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+465-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\luzda\.gradle\caches\transforms-3\588aa0450bed60f5cd4ca88380a1a523\transformed\play-services-auth-21.2.0\AndroidManifest.xml:27:13-72
+466        <!--
+467            Service handling Google Sign-In user revocation. For apps that do not integrate with
+468            Google Sign-In, this service will never be started.
+469        -->
+470        <service
+470-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\luzda\.gradle\caches\transforms-3\588aa0450bed60f5cd4ca88380a1a523\transformed\play-services-auth-21.2.0\AndroidManifest.xml:33:9-37:51
+471            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+471-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\luzda\.gradle\caches\transforms-3\588aa0450bed60f5cd4ca88380a1a523\transformed\play-services-auth-21.2.0\AndroidManifest.xml:34:13-89
+472            android:exported="true"
+472-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\luzda\.gradle\caches\transforms-3\588aa0450bed60f5cd4ca88380a1a523\transformed\play-services-auth-21.2.0\AndroidManifest.xml:35:13-36
+473            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+473-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\luzda\.gradle\caches\transforms-3\588aa0450bed60f5cd4ca88380a1a523\transformed\play-services-auth-21.2.0\AndroidManifest.xml:36:13-107
+474            android:visibleToInstantApps="true" />
+474-->[com.google.android.gms:play-services-auth:21.2.0] C:\Users\luzda\.gradle\caches\transforms-3\588aa0450bed60f5cd4ca88380a1a523\transformed\play-services-auth-21.2.0\AndroidManifest.xml:37:13-48
+475
+476        <provider
+476-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\e5ebec06a77087e8d33f3b6339f351f0\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+477            android:name="com.google.firebase.provider.FirebaseInitProvider"
+477-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\e5ebec06a77087e8d33f3b6339f351f0\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+478            android:authorities="com.example.uancinema_app.firebaseinitprovider"
+478-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\e5ebec06a77087e8d33f3b6339f351f0\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+479            android:directBootAware="true"
+479-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\e5ebec06a77087e8d33f3b6339f351f0\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+480            android:exported="false"
+480-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\e5ebec06a77087e8d33f3b6339f351f0\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+481            android:initOrder="100" />
+481-->[com.google.firebase:firebase-common:21.0.0] C:\Users\luzda\.gradle\caches\transforms-3\e5ebec06a77087e8d33f3b6339f351f0\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+482
+483        <activity
+483-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\84269dcde6f2a0432428a0798ec879b2\transformed\play-services-base-18.3.0\AndroidManifest.xml:20:9-22:45
+484            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+484-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\84269dcde6f2a0432428a0798ec879b2\transformed\play-services-base-18.3.0\AndroidManifest.xml:20:19-85
+485            android:exported="false"
+485-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\84269dcde6f2a0432428a0798ec879b2\transformed\play-services-base-18.3.0\AndroidManifest.xml:22:19-43
+486            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+486-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\84269dcde6f2a0432428a0798ec879b2\transformed\play-services-base-18.3.0\AndroidManifest.xml:21:19-78
+487
+488        <receiver
+488-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:29:9-33:20
+489            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+489-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:30:13-85
+490            android:enabled="true"
+490-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:31:13-35
+491            android:exported="false" >
+491-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:32:13-37
+492        </receiver>
+493
+494        <service
+494-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:35:9-38:40
+495            android:name="com.google.android.gms.measurement.AppMeasurementService"
+495-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:36:13-84
+496            android:enabled="true"
+496-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:37:13-35
+497            android:exported="false" />
+497-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:38:13-37
+498        <service
+498-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:39:9-43:72
+499            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+499-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:40:13-87
+500            android:enabled="true"
+500-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:41:13-35
+501            android:exported="false"
+501-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:42:13-37
+502            android:permission="android.permission.BIND_JOB_SERVICE" />
+502-->[com.google.android.gms:play-services-measurement:22.0.0] C:\Users\luzda\.gradle\caches\transforms-3\10bc5fc65de1ad03c832c6e4e38ee196\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:43:13-69
+503
+504        <uses-library
+504-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\c43c602a5e926165fb3a14813b4d3fb2\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
+505            android:name="android.ext.adservices"
+505-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\c43c602a5e926165fb3a14813b4d3fb2\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
+506            android:required="false" />
+506-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\luzda\.gradle\caches\transforms-3\c43c602a5e926165fb3a14813b4d3fb2\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
+507
+508        <meta-data
+508-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6f546bcfd1a8641864207064b3bc6f5b\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+509            android:name="com.google.android.gms.version"
+509-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6f546bcfd1a8641864207064b3bc6f5b\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+510            android:value="@integer/google_play_services_version" />
+510-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6f546bcfd1a8641864207064b3bc6f5b\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+511
+512        <provider
+512-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\69dff9ab43274aa586a780b6dc377fb9\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+513            android:name="androidx.startup.InitializationProvider"
+513-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\69dff9ab43274aa586a780b6dc377fb9\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+514            android:authorities="com.example.uancinema_app.androidx-startup"
+514-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\69dff9ab43274aa586a780b6dc377fb9\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+515            android:exported="false" >
+515-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\69dff9ab43274aa586a780b6dc377fb9\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+516            <meta-data
+516-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\69dff9ab43274aa586a780b6dc377fb9\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+517                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+517-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\69dff9ab43274aa586a780b6dc377fb9\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+518                android:value="androidx.startup" />
+518-->[androidx.emoji2:emoji2:1.2.0] C:\Users\luzda\.gradle\caches\transforms-3\69dff9ab43274aa586a780b6dc377fb9\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+519            <meta-data
+519-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\e0a208c2b2e7dd6390ccb115eadde24b\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+520                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+520-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\e0a208c2b2e7dd6390ccb115eadde24b\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+521                android:value="androidx.startup" />
+521-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\luzda\.gradle\caches\transforms-3\e0a208c2b2e7dd6390ccb115eadde24b\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+522            <meta-data
+522-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+523                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+523-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+524                android:value="androidx.startup" />
+524-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+525        </provider>
+526
+527        <service
+527-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\luzda\.gradle\caches\transforms-3\4d7fa4cd0094702cfaa3a546dabafc41\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:28:9-34:19
+528            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+528-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\luzda\.gradle\caches\transforms-3\4d7fa4cd0094702cfaa3a546dabafc41\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:29:13-103
+529            android:exported="false" >
+529-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\luzda\.gradle\caches\transforms-3\4d7fa4cd0094702cfaa3a546dabafc41\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:30:13-37
+530            <meta-data
+530-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\luzda\.gradle\caches\transforms-3\4d7fa4cd0094702cfaa3a546dabafc41\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:31:13-33:39
+531                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+531-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\luzda\.gradle\caches\transforms-3\4d7fa4cd0094702cfaa3a546dabafc41\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:32:17-94
+532                android:value="cct" />
+532-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\luzda\.gradle\caches\transforms-3\4d7fa4cd0094702cfaa3a546dabafc41\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:33:17-36
+533        </service>
+534        <service
+534-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\luzda\.gradle\caches\transforms-3\aebc33b1abc68bd1c283cdc9676d44d0\transformed\transport-runtime-3.1.9\AndroidManifest.xml:26:9-30:19
+535            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+535-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\luzda\.gradle\caches\transforms-3\aebc33b1abc68bd1c283cdc9676d44d0\transformed\transport-runtime-3.1.9\AndroidManifest.xml:27:13-117
+536            android:exported="false"
+536-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\luzda\.gradle\caches\transforms-3\aebc33b1abc68bd1c283cdc9676d44d0\transformed\transport-runtime-3.1.9\AndroidManifest.xml:28:13-37
+537            android:permission="android.permission.BIND_JOB_SERVICE" >
+537-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\luzda\.gradle\caches\transforms-3\aebc33b1abc68bd1c283cdc9676d44d0\transformed\transport-runtime-3.1.9\AndroidManifest.xml:29:13-69
+538        </service>
+539
+540        <receiver
+540-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\luzda\.gradle\caches\transforms-3\aebc33b1abc68bd1c283cdc9676d44d0\transformed\transport-runtime-3.1.9\AndroidManifest.xml:32:9-34:40
+541            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+541-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\luzda\.gradle\caches\transforms-3\aebc33b1abc68bd1c283cdc9676d44d0\transformed\transport-runtime-3.1.9\AndroidManifest.xml:33:13-132
+542            android:exported="false" />
+542-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\luzda\.gradle\caches\transforms-3\aebc33b1abc68bd1c283cdc9676d44d0\transformed\transport-runtime-3.1.9\AndroidManifest.xml:34:13-37
+543        <receiver
+543-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+544            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+544-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+545            android:directBootAware="false"
+545-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+546            android:enabled="true"
+546-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+547            android:exported="true"
+547-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+548            android:permission="android.permission.DUMP" >
+548-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+549            <intent-filter>
+549-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+550                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+550-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+550-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+551            </intent-filter>
+552            <intent-filter>
+552-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+553                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+553-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+553-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+554            </intent-filter>
+555            <intent-filter>
+555-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+556                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+556-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+556-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+557            </intent-filter>
+558            <intent-filter>
+558-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+559                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+559-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+559-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\luzda\.gradle\caches\transforms-3\6d84018847a9e428f35016196917b786\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+560            </intent-filter>
+561        </receiver>
+562    </application>
+563
+564</manifest>
