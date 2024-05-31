@@ -50,14 +50,14 @@
         android:layout_marginBottom="8dp"
         android:text="Nombre"
         android:textSize="20sp"
-        app:layout_constraintBottom_toTopOf="@+id/editTextText"
+        app:layout_constraintBottom_toTopOf="@+id/editTextNombre"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.088"
         app:layout_constraintStart_toStartOf="parent"
         tools:ignore="MissingConstraints" />
 
     <EditText
-        android:id="@+id/editTextText"
+        android:id="@+id/editTextNombre"
         android:layout_width="342dp"
         android:layout_height="47dp"
         android:layout_marginBottom="8dp"
@@ -77,14 +77,14 @@
         android:layout_marginBottom="8dp"
         android:text="Correo"
         android:textSize="20sp"
-        app:layout_constraintBottom_toTopOf="@+id/editTextTextEmailAddress"
+        app:layout_constraintBottom_toTopOf="@+id/editTextTextEmail"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.085"
         app:layout_constraintStart_toStartOf="parent"
         tools:ignore="MissingConstraints" />
 
     <EditText
-        android:id="@+id/editTextTextEmailAddress"
+        android:id="@+id/editTextTextEmail"
         android:layout_width="337dp"
         android:layout_height="46dp"
         android:layout_marginBottom="8dp"
@@ -104,14 +104,14 @@
         android:layout_marginBottom="8dp"
         android:text="Contraseña"
         android:textSize="20sp"
-        app:layout_constraintBottom_toTopOf="@+id/editTextNumberPassword"
+        app:layout_constraintBottom_toTopOf="@+id/editTextNumberPassword1"
         app:layout_constraintEnd_toEndOf="@+id/panelLogin"
         app:layout_constraintHorizontal_bias="0.098"
         app:layout_constraintStart_toStartOf="parent"
         tools:ignore="MissingConstraints" />
 
     <EditText
-        android:id="@+id/editTextNumberPassword"
+        android:id="@+id/editTextNumberPassword1"
         android:layout_width="344dp"
         android:layout_height="41dp"
         android:layout_marginBottom="8dp"
@@ -151,7 +151,7 @@
         tools:ignore="Autofill,LabelFor" />
 
     <Button
-        android:id="@+id/boton_registro"
+        android:id="@+id/boton_registro2"
         android:layout_width="249dp"
         android:layout_height="52dp"
         android:layout_marginTop="75dp"

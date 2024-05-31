@@ -2,12 +2,16 @@ plugins {
 
     alias(libs.plugins.androidApplication)
     alias(libs.plugins.jetbrainsKotlinAndroid)
-
+    id("com.google.gms.google-services")
 }
 
 android {
     namespace = "com.example.uancinema_app"
     compileSdk = 34
+
+    buildFeatures {
+        viewBinding = true
+    }
 
     defaultConfig {
         applicationId = "com.example.uancinema_app"
@@ -36,7 +40,18 @@ android {
 
 dependencies {
     implementation(platform("com.google.firebase:firebase-bom:33.0.0"))
+    implementation("com.google.firebase:firebase-firestore-ktx:25.0.0")
+
+
+    implementation("com.google.firebase:firebase-analytics-ktx:22.0.0")
+
     implementation("com.google.firebase:firebase-analytics")
+    implementation("com.google.firebase:firebase-auth-ktx")
+    implementation("com.google.firebase:firebase-database:21.0.0")
+
+    implementation ("com.google.firebase:firebase-messaging:24.0.0")
+    implementation("com.google.android.gms:play-services-auth:21.2.0")
+
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)

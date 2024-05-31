@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.uancinema_app-mergeDebugResources-34:/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.example.uancinema_app-mergeDebugResources-40:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\f8e81ab33e959537b2bc5eb4aef9d92b\\transformed\\material-1.10.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\f7e69589f5c0c5c372667b7f3635b9a7\\transformed\\material-1.10.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\d6ba048d3d14ad158afdba4f238b90fa\\transformed\\appcompat-1.6.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\luzda\\.gradle\\caches\\transforms-3\\d19f6509b8dd0c02830a25a614fc5ab5\\transformed\\appcompat-1.6.1\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
